@@ -1,0 +1,207 @@
+﻿"MOR10. Iedzīvotāju nāves cēloņi sadalījumā pa mēnešiem"
+
+"Nāves cēlonis";"Gads";"Skaits Janvāris";"Skaits Februāris";"Skaits Marts";"Skaits Aprīlis";"Skaits Maijs";"Skaits Jūnijs";"Skaits Jūlijs";"Skaits Augusts";"Skaits Septembris";"Skaits Oktobris";"Skaits Novembris";"Skaits Decembris"
+"KOPĀ";"2015";2719;2374;2568;2412;2317;2190;2268;2213;2074;2352;2245;2459
+"KOPĀ";"2016";2836;2311;2586;2365;2346;2257;2099;2219;2108;2357;2326;2405
+"KOPĀ";"2017";2684;2596;2637;2375;2325;2161;2182;2094;2221;2361;2322;2501
+"KOPĀ";"2018";2561;2415;3050;2522;2311;2021;2366;2132;2122;2273;2219;2536
+"KOPĀ";"2019";2834;2383;2441;2284;2216;2059;2190;1999;2137;2274;2171;2497
+"KOPĀ";"2020";2505;2205;2354;2297;2307;2230;2182;2217;2140;2366;2523;3018
+"Infekcijas un parazitāras slimības (A00-B99)";"2015";29;36;19;25;23;32;28;22;30;23;23;19
+"Infekcijas un parazitāras slimības (A00-B99)";"2016";36;23;42;21;29;14;20;28;24;26;23;23
+"Infekcijas un parazitāras slimības (A00-B99)";"2017";29;29;26;26;24;24;29;28;28;23;19;25
+"Infekcijas un parazitāras slimības (A00-B99)";"2018";31;30;42;29;19;23;23;24;25;20;21;29
+"Infekcijas un parazitāras slimības (A00-B99)";"2019";26;35;33;34;19;30;24;40;33;34;23;35
+"Infekcijas un parazitāras slimības (A00-B99)";"2020";30;20;28;22;24;23;24;27;14;34;20;19
+"Audzēji (C00-D48)";"2015";538;476;552;501;466;477;471;521;492;484;457;556
+"Audzēji (C00-D48)";"2016";540;481;485;508;492;474;499;528;483;506;509;527
+"Audzēji (C00-D48)";"2017";526;495;555;481;526;505;515;510;502;518;489;516
+"Audzēji (C00-D48)";"2018";542;461;562;477;479;450;561;478;500;499;526;539
+"Audzēji (C00-D48)";"2019";536;489;493;524;519;471;533;497;481;524;520;507
+"Audzēji (C00-D48)";"2020";507;487;513;499;515;505;495;526;503;567;505;478
+"..Ļaundabīgi audzēji (C00-C97)";"2015";524;468;546;492;454;470;465;506;483;477;448;543
+"..Ļaundabīgi audzēji (C00-C97)";"2016";527;472;472;499;481;465;489;514;472;492;495;518
+"..Ļaundabīgi audzēji (C00-C97)";"2017";517;484;539;469;514;498;506;500;491;505;472;493
+"..Ļaundabīgi audzēji (C00-C97)";"2018";531;453;550;460;470;442;549;464;481;484;518;530
+"..Ļaundabīgi audzēji (C00-C97)";"2019";520;473;476;511;501;456;522;481;468;516;501;499
+"..Ļaundabīgi audzēji (C00-C97)";"2020";494;478;503;492;500;497;490;517;489;554;495;465
+"Asins un asinsrades orgānu slimības un noteikti imūnsistēmas traucējumi (D50-D89)";"2015";3;7;1;5;5;2;0;0;1;0;0;4
+"Asins un asinsrades orgānu slimības un noteikti imūnsistēmas traucējumi (D50-D89)";"2016";2;3;3;2;4;0;3;0;2;4;7;3
+"Asins un asinsrades orgānu slimības un noteikti imūnsistēmas traucējumi (D50-D89)";"2017";3;4;2;2;3;2;2;5;1;1;8;1
+"Asins un asinsrades orgānu slimības un noteikti imūnsistēmas traucējumi (D50-D89)";"2018";6;3;7;7;5;4;0;3;4;4;9;4
+"Asins un asinsrades orgānu slimības un noteikti imūnsistēmas traucējumi (D50-D89)";"2019";2;1;3;3;3;1;1;1;2;1;2;6
+"Asins un asinsrades orgānu slimības un noteikti imūnsistēmas traucējumi (D50-D89)";"2020";3;2;2;1;4;4;4;3;5;5;5;2
+"Endokrīnās, uztures un vielmaiņas slimības (E00-E90)";"2015";48;31;50;54;45;45;42;31;36;46;39;39
+"Endokrīnās, uztures un vielmaiņas slimības (E00-E90)";"2016";59;40;59;33;56;43;41;58;45;57;55;48
+"Endokrīnās, uztures un vielmaiņas slimības (E00-E90)";"2017";54;52;64;42;54;58;39;44;48;48;51;53
+"Endokrīnās, uztures un vielmaiņas slimības (E00-E90)";"2018";53;58;63;48;56;55;62;40;37;44;45;58
+"Endokrīnās, uztures un vielmaiņas slimības (E00-E90)";"2019";84;51;69;45;58;57;52;54;55;65;58;51
+"Endokrīnās, uztures un vielmaiņas slimības (E00-E90)";"2020";59;65;47;48;60;60;63;67;64;75;81;79
+"Psihiski un uzvedības traucējumi (F00-F99)";"2015";26;26;36;45;33;37;38;49;26;28;30;36
+"Psihiski un uzvedības traucējumi (F00-F99)";"2016";39;45;42;29;39;32;38;38;31;38;35;43
+"Psihiski un uzvedības traucējumi (F00-F99)";"2017";31;53;50;47;51;38;39;33;46;46;36;56
+"Psihiski un uzvedības traucējumi (F00-F99)";"2018";54;51;65;49;50;28;55;61;51;45;49;62
+"Psihiski un uzvedības traucējumi (F00-F99)";"2019";73;58;56;43;42;45;44;32;45;48;41;51
+"Psihiski un uzvedības traucējumi (F00-F99)";"2020";60;48;70;55;58;59;50;60;40;50;56;66
+"..Psihiski un uzvedības traucējumi alkohola lietošanas dēļ (F10)";"2015";15;6;19;24;11;16;21;20;12;14;11;12
+"..Psihiski un uzvedības traucējumi alkohola lietošanas dēļ (F10)";"2016";7;7;8;10;11;13;8;10;9;8;12;10
+"..Psihiski un uzvedības traucējumi alkohola lietošanas dēļ (F10)";"2017";7;10;11;8;8;8;8;12;14;11;9;20
+"..Psihiski un uzvedības traucējumi alkohola lietošanas dēļ (F10)";"2018";14;9;17;10;8;10;7;14;9;7;12;13
+"..Psihiski un uzvedības traucējumi alkohola lietošanas dēļ (F10)";"2019";15;5;8;11;9;8;4;5;5;5;5;8
+"..Psihiski un uzvedības traucējumi alkohola lietošanas dēļ (F10)";"2020";12;7;11;12;9;13;8;18;3;8;5;9
+"Nervu sistēmas slimības un ausu un aizauss paugura slimības (G00-G99; H60-H93)";"2015";33;22;24;24;39;31;28;34;41;29;39;31
+"Nervu sistēmas slimības un ausu un aizauss paugura slimības (G00-G99; H60-H93)";"2016";34;26;43;36;30;39;33;34;36;29;39;29
+"Nervu sistēmas slimības un ausu un aizauss paugura slimības (G00-G99; H60-H93)";"2017";46;50;39;41;37;28;37;36;51;41;32;37
+"Nervu sistēmas slimības un ausu un aizauss paugura slimības (G00-G99; H60-H93)";"2018";32;48;53;40;39;42;38;42;35;45;42;52
+"Nervu sistēmas slimības un ausu un aizauss paugura slimības (G00-G99; H60-H93)";"2019";64;45;32;40;27;37;50;32;32;32;34;45
+"Nervu sistēmas slimības un ausu un aizauss paugura slimības (G00-G99; H60-H93)";"2020";40;41;26;32;38;39;58;26;32;33;29;39
+"Asinsrites sistēmas slimības (I00-I99)";"2015";1618;1412;1481;1367;1341;1252;1271;1173;1133;1380;1292;1415
+"Asinsrites sistēmas slimības (I00-I99)";"2016";1637;1318;1477;1389;1339;1279;1149;1175;1138;1308;1291;1351
+"Asinsrites sistēmas slimības (I00-I99)";"2017";1574;1483;1468;1352;1315;1160;1177;1123;1189;1291;1308;1391
+"Asinsrites sistēmas slimības (I00-I99)";"2018";1454;1374;1762;1438;1297;1098;1226;1097;1116;1278;1203;1415
+"Asinsrites sistēmas slimības (I00-I99)";"2019";1579;1287;1339;1251;1233;1103;1169;1036;1168;1248;1154;1436
+"Asinsrites sistēmas slimības (I00-I99)";"2020";1435;1213;1312;1284;1260;1201;1177;1166;1181;1228;1362;1501
+"..Akūts miokarda infarkts (I21-I22)";"2015";116;101;94;90;102;91;103;85;85;92;89;122
+"..Akūts miokarda infarkts (I21-I22)";"2016";128;99;96;102;95;82;77;79;65;84;90;91
+"..Akūts miokarda infarkts (I21-I22)";"2017";97;84;86;85;89;79;77;76;69;93;101;75
+"..Akūts miokarda infarkts (I21-I22)";"2018";89;92;82;84;73;70;62;66;54;80;64;70
+"..Akūts miokarda infarkts (I21-I22)";"2019";87;87;81;84;65;54;81;55;64;70;44;78
+"..Akūts miokarda infarkts (I21-I22)";"2020";81;76;73;68;76;64;50;77;71;66;68;72
+"..Hemorāģisks insults (I60-I62)";"2015";61;50;51;46;39;31;46;41;27;45;40;40
+"..Hemorāģisks insults (I60-I62)";"2016";35;42;37;47;38;37;36;30;43;39;38;36
+"..Hemorāģisks insults (I60-I62)";"2017";45;34;45;31;30;38;35;40;32;35;33;43
+"..Hemorāģisks insults (I60-I62)";"2018";42;35;50;30;47;35;40;34;30;41;31;42
+"..Hemorāģisks insults (I60-I62)";"2019";40;33;29;32;30;35;23;25;30;30;34;42
+"..Hemorāģisks insults (I60-I62)";"2020";32;38;32;35;36;35;22;35;34;35;34;34
+".. Išēmisks insults (I63-I64)";"2015";188;168;177;172;174;163;142;135;125;165;168;179
+".. Išēmisks insults (I63-I64)";"2016";180;156;171;163;145;154;106;131;126;142;120;148
+".. Išēmisks insults (I63-I64)";"2017";163;163;146;125;166;126;137;120;120;120;122;166
+".. Išēmisks insults (I63-I64)";"2018";151;141;183;151;141;99;98;113;101;143;132;135
+".. Išēmisks insults (I63-I64)";"2019";152;138;148;112;100;107;111;80;114;128;120;113
+".. Išēmisks insults (I63-I64)";"2020";120;133;121;113;101;98;112;95;101;113;136;124
+"Elpošanas sistēmas slimības (J00-J99)";"2015";74;68;85;63;69;44;55;53;33;48;73;47
+"Elpošanas sistēmas slimības (J00-J99)";"2016";83;81;101;72;62;63;42;68;57;73;57;63
+"Elpošanas sistēmas slimības (J00-J99)";"2017";94;120;104;71;61;43;48;46;53;67;69;66
+"Elpošanas sistēmas slimības (J00-J99)";"2018";74;102;161;125;75;50;47;60;53;65;42;67
+"Elpošanas sistēmas slimības (J00-J99)";"2019";118;112;91;60;57;45;39;53;44;58;42;60
+"Elpošanas sistēmas slimības (J00-J99)";"2020";79;62;69;68;58;33;48;60;48;59;59;61
+"..Gripa un pneimonija (J09-J18)";"2015";40;35;49;35;25;19;23;29;21;18;36;29
+"..Gripa un pneimonija (J09-J18)";"2016";55;45;55;40;33;23;19;34;20;31;31;27
+"..Gripa un pneimonija (J09-J18)";"2017";58;70;65;39;33;20;21;25;23;30;35;29
+"..Gripa un pneimonija (J09-J18)";"2018";37;65;111;70;39;18;27;35;30;33;20;34
+"..Gripa un pneimonija (J09-J18)";"2019";68;83;57;32;24;21;23;24;20;30;26;34
+"..Gripa un pneimonija (J09-J18)";"2020";47;33;34;33;34;13;20;31;23;31;33;40
+"Gremošanas sistēmas slimības (K00-K93)";"2015";95;69;92;97;81;84;97;87;90;84;68;71
+"Gremošanas sistēmas slimības (K00-K93)";"2016";121;85;101;70;86;81;74;78;89;88;78;86
+"Gremošanas sistēmas slimības (K00-K93)";"2017";91;70;93;92;62;79;77;65;91;97;96;106
+"Gremošanas sistēmas slimības (K00-K93)";"2018";89;84;99;99;86;86;97;84;95;78;96;82
+"Gremošanas sistēmas slimības (K00-K93)";"2019";94;87;95;86;83;73;65;71;83;82;89;95
+"Gremošanas sistēmas slimības (K00-K93)";"2020";67;81;78;90;86;88;74;82;61;96;91;86
+"Ādas un zemādas audu slimības (L00-L99)";"2015";3;6;8;4;5;8;5;7;1;2;4;4
+"Ādas un zemādas audu slimības (L00-L99)";"2016";13;4;7;4;2;4;4;4;9;8;4;4
+"Ādas un zemādas audu slimības (L00-L99)";"2017";6;7;3;4;2;7;4;3;7;7;6;2
+"Ādas un zemādas audu slimības (L00-L99)";"2018";7;9;10;8;2;4;11;9;3;8;6;8
+"Ādas un zemādas audu slimības (L00-L99)";"2019";4;8;5;4;3;7;4;3;8;6;6;8
+"Ādas un zemādas audu slimības (L00-L99)";"2020";5;8;8;4;6;8;7;3;8;9;4;11
+"Skeleta, muskuļu un saistaudu slimības (M00-M99)";"2015";4;10;11;13;7;4;3;8;4;4;13;11
+"Skeleta, muskuļu un saistaudu slimības (M00-M99)";"2016";5;7;5;5;8;6;6;5;11;5;6;7
+"Skeleta, muskuļu un saistaudu slimības (M00-M99)";"2017";7;8;8;7;3;6;5;5;4;4;10;7
+"Skeleta, muskuļu un saistaudu slimības (M00-M99)";"2018";7;9;6;3;6;8;6;14;11;13;9;12
+"Skeleta, muskuļu un saistaudu slimības (M00-M99)";"2019";8;7;10;14;8;9;9;12;9;9;17;10
+"Skeleta, muskuļu un saistaudu slimības (M00-M99)";"2020";4;9;9;9;10;6;4;9;4;12;9;7
+"Uroģenitālās sistēmas slimības (N00-N99)";"2015";36;32;38;37;29;35;26;35;36;31;30;24
+"Uroģenitālās sistēmas slimības (N00-N99)";"2016";47;31;36;29;26;45;27;25;32;38;35;41
+"Uroģenitālās sistēmas slimības (N00-N99)";"2017";33;43;44;41;32;30;35;31;35;30;29;35
+"Uroģenitālās sistēmas slimības (N00-N99)";"2018";33;44;41;41;33;24;38;40;30;35;38;29
+"Uroģenitālās sistēmas slimības (N00-N99)";"2019";61;35;52;29;36;33;29;34;32;31;40;42
+"Uroģenitālās sistēmas slimības (N00-N99)";"2020";41;46;36;34;37;35;32;43;39;31;32;29
+"Grūtniecība, dzemdības un pēcdzemdību periods (O00-O99)";"2015";3;0;1;0;0;1;1;2;1;0;0;3
+"Grūtniecība, dzemdības un pēcdzemdību periods (O00-O99)";"2016";0;0;0;0;1;0;0;0;1;0;0;0
+"Grūtniecība, dzemdības un pēcdzemdību periods (O00-O99)";"2017";0;0;0;0;0;0;0;0;0;1;0;0
+"Grūtniecība, dzemdības un pēcdzemdību periods (O00-O99)";"2018";0;0;0;0;0;0;1;1;0;1;0;0
+"Grūtniecība, dzemdības un pēcdzemdību periods (O00-O99)";"2019";0;0;0;1;1;1;1;1;0;0;0;0
+"Grūtniecība, dzemdības un pēcdzemdību periods (O00-O99)";"2020";0;0;0;1;0;0;1;0;1;0;0;0
+"Noteikti perinatālā perioda stāvokļi (P00-P96)";"2015";7;4;4;2;2;5;2;5;3;5;4;0
+"Noteikti perinatālā perioda stāvokļi (P00-P96)";"2016";7;4;2;7;5;3;2;6;2;2;3;0
+"Noteikti perinatālā perioda stāvokļi (P00-P96)";"2017";14;3;1;6;3;6;4;7;2;3;2;2
+"Noteikti perinatālā perioda stāvokļi (P00-P96)";"2018";4;2;3;2;0;5;3;3;3;4;3;1
+"Noteikti perinatālā perioda stāvokļi (P00-P96)";"2019";3;3;3;0;3;3;9;2;2;6;1;3
+"Noteikti perinatālā perioda stāvokļi (P00-P96)";"2020";4;3;3;4;5;2;2;0;3;5;1;3
+"Iedzimtas kroplības, deformācijas un hromosomu anomālijas (Q00-Q99)";"2015";5;3;3;2;5;4;4;6;6;8;3;3
+"Iedzimtas kroplības, deformācijas un hromosomu anomālijas (Q00-Q99)";"2016";8;5;10;7;5;4;5;1;3;3;3;4
+"Iedzimtas kroplības, deformācijas un hromosomu anomālijas (Q00-Q99)";"2017";4;5;7;3;2;3;2;1;3;1;5;4
+"Iedzimtas kroplības, deformācijas un hromosomu anomālijas (Q00-Q99)";"2018";4;3;4;5;5;3;3;3;2;4;5;2
+"Iedzimtas kroplības, deformācijas un hromosomu anomālijas (Q00-Q99)";"2019";5;1;1;3;3;3;3;4;4;4;2;2
+"Iedzimtas kroplības, deformācijas un hromosomu anomālijas (Q00-Q99)";"2020";8;4;2;3;5;1;4;2;3;2;0;3
+"Citur neklasificēti simptomi, pazīmes un anomāla klīniska un laboratorijas atrade (R00-R99)";"2015";26;36;24;33;27;26;26;22;21;21;24;25
+"Citur neklasificēti simptomi, pazīmes un anomāla klīniska un laboratorijas atrade (R00-R99)";"2016";30;29;33;24;32;42;37;28;24;15;26;18
+"Citur neklasificēti simptomi, pazīmes un anomāla klīniska un laboratorijas atrade (R00-R99)";"2017";25;28;38;29;29;33;35;28;26;31;21;32
+"Citur neklasificēti simptomi, pazīmes un anomāla klīniska un laboratorijas atrade (R00-R99)";"2018";16;19;35;29;31;30;45;32;22;13;14;25
+"Citur neklasificēti simptomi, pazīmes un anomāla klīniska un laboratorijas atrade (R00-R99)";"2019";34;37;40;36;25;26;44;20;21;24;27;20
+"Citur neklasificēti simptomi, pazīmes un anomāla klīniska un laboratorijas atrade (R00-R99)";"2020";30;21;35;24;28;37;26;17;19;18;28;26
+"Ārēji slimību un nāves cēloņi (V01-Y98)";"2015";171;136;139;140;140;103;171;158;120;159;146;171
+"Ārēji slimību un nāves cēloņi (V01-Y98)";"2016";175;129;140;129;130;128;119;143;121;157;155;158
+"Ārēji slimību un nāves cēloņi (V01-Y98)";"2017";147;146;135;131;121;139;134;129;135;152;141;168
+"Ārēji slimību un nāves cēloņi (V01-Y98)";"2018";155;118;137;122;128;111;150;141;135;117;111;151
+"Ārēji slimību un nāves cēloņi (V01-Y98)";"2019";143;127;119;111;96;115;114;107;118;102;115;126
+"Ārēji slimību un nāves cēloņi (V01-Y98)";"2020";133;95;116;110;110;127;112;125;113;118;115;117
+"..Transporta nelaimes gadījumi (V01-V99)";"2015";26;7;8;14;9;15;19;31;20;22;21;26
+"..Transporta nelaimes gadījumi (V01-V99)";"2016";13;11;16;14;14;19;17;18;22;18;17;15
+"..Transporta nelaimes gadījumi (V01-V99)";"2017";15;13;10;10;11;14;11;12;20;11;12;15
+"..Transporta nelaimes gadījumi (V01-V99)";"2018";17;10;7;9;12;15;9;17;19;23;15;22
+"..Transporta nelaimes gadījumi (V01-V99)";"2019";9;14;13;11;17;14;11;14;12;14;18;12
+"..Transporta nelaimes gadījumi (V01-V99)";"2020";19;8;8;5;8;15;7;16;19;15;17;14
+"..Noslīkšana un slīkšana (W65-W74, Y21)";"2015";1;7;9;6;13;11;22;24;1;9;10;13
+"..Noslīkšana un slīkšana (W65-W74, Y21)";"2016";3;9;9;8;15;20;15;17;11;13;7;8
+"..Noslīkšana un slīkšana (W65-W74, Y21)";"2017";4;4;9;10;12;12;16;18;13;12;11;10
+"..Noslīkšana un slīkšana (W65-W74, Y21)";"2018";4;2;3;13;14;16;31;16;11;5;4;5
+"..Noslīkšana un slīkšana (W65-W74, Y21)";"2019";4;6;9;8;9;19;16;7;7;6;7;6
+"..Noslīkšana un slīkšana (W65-W74, Y21)";"2020";4;4;9;6;12;23;19;11;7;5;11;14
+"..Pakļaušana dūmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2015";15;10;12;16;6;3;4;2;8;7;12;13
+"..Pakļaušana dūmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2016";20;6;13;14;5;5;5;5;0;17;12;14
+"..Pakļaušana dūmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2017";8;16;7;5;8;6;6;2;3;9;13;14
+"..Pakļaušana dūmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2018";11;8;11;4;3;3;7;3;8;11;13;19
+"..Pakļaušana dūmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2019";22;9;11;8;9;2;1;5;4;7;6;12
+"..Pakļaušana dūmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2020";19;6;13;11;8;7;3;4;9;9;7;12
+"..Pārmērīga dabiska aukstuma ietekme (X31)";"2015";24;16;8;6;3;0;1;0;1;11;8;14
+"..Pārmērīga dabiska aukstuma ietekme (X31)";"2016";40;13;14;5;2;1;1;1;2;15;18;19
+"..Pārmērīga dabiska aukstuma ietekme (X31)";"2017";21;22;17;11;2;0;2;0;2;9;15;18
+"..Pārmērīga dabiska aukstuma ietekme (X31)";"2018";18;16;14;11;0;0;0;0;4;6;5;14
+"..Pārmērīga dabiska aukstuma ietekme (X31)";"2019";19;17;12;2;2;0;0;0;7;5;10;15
+"..Pārmērīga dabiska aukstuma ietekme (X31)";"2020";17;11;13;8;3;0;2;0;2;5;7;13
+"..Saindēšanās un pakļaušana kaitīgu vielu iedarbei (X40-X49, Y10-Y19)";"2015";23;11;14;21;10;11;20;12;9;16;10;8
+"..Saindēšanās un pakļaušana kaitīgu vielu iedarbei (X40-X49, Y10-Y19)";"2016";27;10;15;17;18;6;9;18;15;15;17;13
+"..Saindēšanās un pakļaušana kaitīgu vielu iedarbei (X40-X49, Y10-Y19)";"2017";18;14;13;26;11;16;13;21;12;20;17;23
+"..Saindēšanās un pakļaušana kaitīgu vielu iedarbei (X40-X49, Y10-Y19)";"2018";27;19;22;16;11;12;10;8;15;11;9;6
+"..Saindēšanās un pakļaušana kaitīgu vielu iedarbei (X40-X49, Y10-Y19)";"2019";14;8;10;8;10;11;9;8;9;8;12;19
+"..Saindēšanās un pakļaušana kaitīgu vielu iedarbei (X40-X49, Y10-Y19)";"2020";7;8;10;20;11;9;8;7;7;12;6;8
+"..Saindēšanās ar alkoholu (X45; Y15)";"2015";13;8;12;16;6;10;11;10;9;10;5;5
+"..Saindēšanās ar alkoholu (X45; Y15)";"2016";19;4;12;9;12;4;4;8;9;10;12;8
+"..Saindēšanās ar alkoholu (X45; Y15)";"2017";14;6;10;19;11;8;7;8;6;11;7;10
+"..Saindēšanās ar alkoholu (X45; Y15)";"2018";18;8;11;7;5;9;6;5;8;7;7;4
+"..Saindēšanās ar alkoholu (X45; Y15)";"2019";12;7;6;3;6;6;7;3;6;6;10;12
+"..Saindēšanās ar alkoholu (X45; Y15)";"2020";3;6;5;12;7;7;6;1;4;4;2;4
+"..Tīšs paškaitējums (X60-X84)";"2015";41;32;30;33;39;20;46;31;31;31;30;22
+"..Tīšs paškaitējums (X60-X84)";"2016";29;33;35;23;33;30;28;31;29;28;38;27
+"..Tīšs paškaitējums (X60-X84)";"2017";28;29;25;27;36;31;32;29;27;29;31;29
+"..Tīšs paškaitējums (X60-X84)";"2018";19;20;21;18;36;22;35;26;31;23;20;28
+"..Tīšs paškaitējums (X60-X84)";"2019";23;27;24;26;19;24;32;27;25;25;18;18
+"..Tīšs paškaitējums (X60-X84)";"2020";26;19;27;23;23;30;34;32;23;25;23;11
+"..Vardarbība (X85-Y09)";"2015";9;5;8;7;7;4;8;7;5;13;11;15
+"..Vardarbība (X85-Y09)";"2016";14;4;3;13;6;4;8;7;6;14;4;7
+"..Vardarbība (X85-Y09)";"2017";11;4;4;2;5;9;8;6;8;5;5;7
+"..Vardarbība (X85-Y09)";"2018";8;7;3;6;5;3;6;10;9;4;5;10
+"..Vardarbība (X85-Y09)";"2019";7;5;6;6;5;5;9;5;5;1;2;6
+"..Vardarbība (X85-Y09)";"2020";7;3;2;5;2;10;5;6;6;6;7;2
+"Īpašiem gadījumiem paredzētie kodi (U00-U85)";"2015";0;0;0;0;0;0;0;0;0;0;0;0
+"Īpašiem gadījumiem paredzētie kodi (U00-U85)";"2016";0;0;0;0;0;0;0;0;0;0;0;0
+"Īpašiem gadījumiem paredzētie kodi (U00-U85)";"2017";0;0;0;0;0;0;0;0;0;0;0;0
+"Īpašiem gadījumiem paredzētie kodi (U00-U85)";"2018";0;0;0;0;0;0;0;0;0;0;0;0
+"Īpašiem gadījumiem paredzētie kodi (U00-U85)";"2019";0;0;0;0;0;0;0;0;0;0;0;0
+"Īpašiem gadījumiem paredzētie kodi (U00-U85)";"2020";0;0;0;9;3;2;1;1;2;24;126;491
+"..Covid-19 (U07)";"2015";x;x;x;x;x;x;x;x;x;x;x;x
+"..Covid-19 (U07)";"2016";x;x;x;x;x;x;x;x;x;x;x;x
+"..Covid-19 (U07)";"2017";x;x;x;x;x;x;x;x;x;x;x;x
+"..Covid-19 (U07)";"2018";x;x;x;x;x;x;x;x;x;x;x;x
+"..Covid-19 (U07)";"2019";x;x;x;x;x;x;x;x;x;x;x;x
+"..Covid-19 (U07)";"2020";0;0;0;9;3;2;1;1;2;24;126;491
