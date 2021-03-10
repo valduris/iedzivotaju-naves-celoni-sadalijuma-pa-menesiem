@@ -58,13 +58,51 @@
                 order: 1;
             }
 
+            .header {
+                display: flex;
+                flex-direction: row;
+                justify-content: left;
+            }
+            
+            .header-child {
+                padding: 0 1rem;
+            }
+
+            .header-child.controls {
+                border-right: 1px solid gray;
+                flex: 2 0 auto;
+            }
+
+            .header-child.notes {
+                border-right: 1px solid gray;
+                flex: 2 0 auto;
+            }
+
+            .header-child.description {
+                flex: 1 1 auto;
+            }
         </style>
     </head>
     <body>
-        <input type="radio" id="absolute" name="type" value="absolute" checked>
-        <label for="absolute">Absolūti</label><br>
-        <input type="radio" id="relative" name="type" value="relative">
-        <label for="relative">Relatīvi (uz 100000 iedzīvotājiem)</label><br>
+        <div class="header">
+            <div class="header-child controls">
+                <input type="radio" id="absolute" name="type" value="absolute" checked>
+                <label for="absolute">Absolūti</label><br>
+                <input type="radio" id="relative" name="type" value="relative">
+                <label for="relative">Relatīvi (uz 100000 iedzīvotājiem)</label><br>
+            </div>
+            <div class="header-child notes">
+                <p>Dati no
+                    <a href="https://statistika.spkc.gov.lv/pxweb/lv/Health/Health__Mirstiba/MOR10_Iedzivotaju_naves_celoni_menesi.px/">
+                        SPKC
+                    </a>
+                    par laika intervālu 2015.01 - 2021.01
+                </p>
+            </div>
+            <div class="header-child description">
+                Uzklikšķini uz krāsainā taisnstūra, lai iespējotu/atspējotu vērtības
+            </div>
+        </div>
         <script src="main.js"></script>
     </body>
 </html>
