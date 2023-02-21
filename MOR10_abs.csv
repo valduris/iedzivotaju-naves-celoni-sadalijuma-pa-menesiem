@@ -1,118 +1,118 @@
-ï»¿"MOR10. IedzÄ«votÄju nÄves cÄ“loÅ†i sadalÄ«jumÄ pa mÄ“neÅ¡iem"
+"MOR10. Iedzîvotâju nâves cçloòi sadalîjumâ pa mçneğiem"
 
-"NÄves cÄ“lonis";"Gads";"Skaits JanvÄris";"Skaits FebruÄris";"Skaits Marts";"Skaits AprÄ«lis";"Skaits Maijs";"Skaits JÅ«nijs";"Skaits JÅ«lijs";"Skaits Augusts";"Skaits Septembris";"Skaits Oktobris";"Skaits Novembris";"Skaits Decembris"
-"KOPï¿½";"2015";2719;2370;2567;2414;2316;2187;2273;2210;2073;2354;2247;2463
-"KOPï¿½";"2016";2836;2311;2586;2365;2346;2257;2099;2219;2106;2358;2325;2407
-"KOPï¿½";"2017";2683;2596;2637;2376;2325;2161;2182;2094;2222;2361;2322;2502
-"KOPï¿½";"2018";2561;2415;3050;2522;2311;2021;2368;2133;2123;2273;2220;2536
-"KOPï¿½";"2019";2834;2383;2440;2284;2215;2059;2192;2001;2138;2275;2171;2501
-"KOPï¿½";"2020";2506;2205;2352;2298;2307;2231;2186;2219;2144;2369;2526;3252
-"KOPï¿½";"2021";3546;2790;2667;2530;2661;2636;2513;2298;2510;3548;3554;2980
-"KOPï¿½";"2022";2901;2724;2963;2451;2353;2288;2205;2278;2279;2384;...;...
-"Infekcijas un parazitï¿½ras slimï¿½bas (A00-B99)";"2015";29;36;19;25;23;32;28;22;30;23;23;19
-"Infekcijas un parazitï¿½ras slimï¿½bas (A00-B99)";"2016";36;23;42;21;29;14;20;28;24;26;23;23
-"Infekcijas un parazitï¿½ras slimï¿½bas (A00-B99)";"2017";29;29;26;26;24;24;29;28;28;23;19;25
-"Infekcijas un parazitï¿½ras slimï¿½bas (A00-B99)";"2018";31;30;42;29;19;23;23;24;25;20;21;29
-"Infekcijas un parazitï¿½ras slimï¿½bas (A00-B99)";"2019";26;35;33;34;19;30;24;40;33;34;23;35
-"Infekcijas un parazitï¿½ras slimï¿½bas (A00-B99)";"2020";30;20;28;22;24;23;24;27;14;34;20;20
-"Infekcijas un parazitï¿½ras slimï¿½bas (A00-B99)";"2021";19;23;22;30;21;32;31;19;25;28;23;29
-"Infekcijas un parazitï¿½ras slimï¿½bas (A00-B99)";"2022";36;29;23;29;29;24;28;34;29;34;...;...
-"Audzï¿½ji (C00-D48)";"2015";538;476;552;501;466;477;471;521;492;484;457;556
-"Audzï¿½ji (C00-D48)";"2016";540;481;485;508;492;474;499;528;483;506;509;527
-"Audzï¿½ji (C00-D48)";"2017";526;495;555;481;526;505;515;510;502;518;489;516
-"Audzï¿½ji (C00-D48)";"2018";542;461;562;477;479;450;562;478;500;499;526;539
-"Audzï¿½ji (C00-D48)";"2019";536;489;493;524;519;471;533;497;481;524;520;508
-"Audzï¿½ji (C00-D48)";"2020";507;486;513;498;516;505;495;526;504;567;506;501
-"Audzï¿½ji (C00-D48)";"2021";497;417;469;482;478;523;536;534;495;519;460;482
-"Audzï¿½ji (C00-D48)";"2022";507;463;506;456;485;449;513;506;478;488;...;...
-"..ï¿½aundabï¿½gi audzï¿½ji (C00-C97)";"2015";524;468;546;492;454;470;465;506;483;477;448;543
-"..ï¿½aundabï¿½gi audzï¿½ji (C00-C97)";"2016";527;472;472;499;481;465;489;514;472;492;495;518
-"..ï¿½aundabï¿½gi audzï¿½ji (C00-C97)";"2017";517;484;539;469;514;498;506;500;491;505;472;493
-"..ï¿½aundabï¿½gi audzï¿½ji (C00-C97)";"2018";531;453;550;460;470;442;550;464;481;484;518;530
-"..ï¿½aundabï¿½gi audzï¿½ji (C00-C97)";"2019";520;473;476;511;501;456;522;481;468;516;501;500
-"..ï¿½aundabï¿½gi audzï¿½ji (C00-C97)";"2020";494;477;503;491;501;497;490;517;490;554;496;487
-"..ï¿½aundabï¿½gi audzï¿½ji (C00-C97)";"2021";488;405;460;468;468;511;525;525;477;507;450;468
-"..ï¿½aundabï¿½gi audzï¿½ji (C00-C97)";"2022";497;453;486;444;474;431;497;497;470;471;...;...
-"Asins un asinsrades orgï¿½nu slimï¿½bas un noteikti imï¿½nsistï¿½mas traucï¿½jumi (D50-D89)";"2015";3;7;1;5;5;2;0;0;1;0;0;4
-"Asins un asinsrades orgï¿½nu slimï¿½bas un noteikti imï¿½nsistï¿½mas traucï¿½jumi (D50-D89)";"2016";2;3;3;2;4;0;3;0;2;4;7;3
-"Asins un asinsrades orgï¿½nu slimï¿½bas un noteikti imï¿½nsistï¿½mas traucï¿½jumi (D50-D89)";"2017";3;4;2;2;3;2;2;5;1;1;8;1
-"Asins un asinsrades orgï¿½nu slimï¿½bas un noteikti imï¿½nsistï¿½mas traucï¿½jumi (D50-D89)";"2018";6;3;7;7;5;4;0;3;4;4;9;4
-"Asins un asinsrades orgï¿½nu slimï¿½bas un noteikti imï¿½nsistï¿½mas traucï¿½jumi (D50-D89)";"2019";2;1;3;3;3;1;1;1;2;1;2;6
-"Asins un asinsrades orgï¿½nu slimï¿½bas un noteikti imï¿½nsistï¿½mas traucï¿½jumi (D50-D89)";"2020";3;2;2;1;4;4;4;3;5;5;5;2
-"Asins un asinsrades orgï¿½nu slimï¿½bas un noteikti imï¿½nsistï¿½mas traucï¿½jumi (D50-D89)";"2021";3;0;2;4;7;3;2;3;0;7;2;7
-"Asins un asinsrades orgï¿½nu slimï¿½bas un noteikti imï¿½nsistï¿½mas traucï¿½jumi (D50-D89)";"2022";6;4;3;4;1;5;0;0;6;5;...;...
-"Endokrï¿½nï¿½s, uztures un vielmaiï¿½as slimï¿½bas (E00-E90)";"2015";48;31;50;54;45;45;42;31;36;46;39;39
-"Endokrï¿½nï¿½s, uztures un vielmaiï¿½as slimï¿½bas (E00-E90)";"2016";59;40;59;33;56;43;41;58;45;57;55;48
-"Endokrï¿½nï¿½s, uztures un vielmaiï¿½as slimï¿½bas (E00-E90)";"2017";54;52;64;42;54;58;39;44;48;48;51;53
-"Endokrï¿½nï¿½s, uztures un vielmaiï¿½as slimï¿½bas (E00-E90)";"2018";53;58;63;48;56;55;62;40;37;44;45;58
-"Endokrï¿½nï¿½s, uztures un vielmaiï¿½as slimï¿½bas (E00-E90)";"2019";84;51;69;45;58;57;52;54;55;65;58;51
-"Endokrï¿½nï¿½s, uztures un vielmaiï¿½as slimï¿½bas (E00-E90)";"2020";59;65;47;48;60;60;63;67;64;75;81;83
-"Endokrï¿½nï¿½s, uztures un vielmaiï¿½as slimï¿½bas (E00-E90)";"2021";84;69;61;67;65;61;72;60;57;92;77;56
-"Endokrï¿½nï¿½s, uztures un vielmaiï¿½as slimï¿½bas (E00-E90)";"2022";59;54;53;57;59;48;49;62;51;58;...;...
-"Psihiski un uzvedï¿½bas traucï¿½jumi (F00-F99)";"2015";26;26;36;45;33;37;38;49;26;28;30;36
-"Psihiski un uzvedï¿½bas traucï¿½jumi (F00-F99)";"2016";39;45;42;29;39;32;38;38;31;38;35;43
-"Psihiski un uzvedï¿½bas traucï¿½jumi (F00-F99)";"2017";31;53;50;47;51;38;39;34;46;46;36;56
-"Psihiski un uzvedï¿½bas traucï¿½jumi (F00-F99)";"2018";54;51;65;49;51;28;55;61;51;45;49;62
-"Psihiski un uzvedï¿½bas traucï¿½jumi (F00-F99)";"2019";73;58;56;43;42;45;44;32;45;48;41;51
-"Psihiski un uzvedï¿½bas traucï¿½jumi (F00-F99)";"2020";60;48;70;55;58;59;51;60;40;50;57;77
-"Psihiski un uzvedï¿½bas traucï¿½jumi (F00-F99)";"2021";86;75;57;58;68;74;72;59;59;55;68;62
-"Psihiski un uzvedï¿½bas traucï¿½jumi (F00-F99)";"2022";58;46;46;42;37;53;40;44;48;51;...;...
-"..Psihiski un uzvedï¿½bas traucï¿½jumi alkohola lietoï¿½anas dï¿½ï¿½ (F10)";"2015";15;6;19;24;11;16;21;20;12;14;11;12
-"..Psihiski un uzvedï¿½bas traucï¿½jumi alkohola lietoï¿½anas dï¿½ï¿½ (F10)";"2016";7;7;8;10;11;13;8;10;9;8;12;10
-"..Psihiski un uzvedï¿½bas traucï¿½jumi alkohola lietoï¿½anas dï¿½ï¿½ (F10)";"2017";7;10;11;8;8;8;8;13;14;11;9;20
-"..Psihiski un uzvedï¿½bas traucï¿½jumi alkohola lietoï¿½anas dï¿½ï¿½ (F10)";"2018";14;9;17;10;9;10;7;14;9;7;12;13
-"..Psihiski un uzvedï¿½bas traucï¿½jumi alkohola lietoï¿½anas dï¿½ï¿½ (F10)";"2019";15;5;8;11;9;8;4;5;5;5;5;8
-"..Psihiski un uzvedï¿½bas traucï¿½jumi alkohola lietoï¿½anas dï¿½ï¿½ (F10)";"2020";12;7;11;12;9;13;9;18;3;8;6;16
-"..Psihiski un uzvedï¿½bas traucï¿½jumi alkohola lietoï¿½anas dï¿½ï¿½ (F10)";"2021";20;17;18;19;20;27;25;17;19;15;18;19
-"..Psihiski un uzvedï¿½bas traucï¿½jumi alkohola lietoï¿½anas dï¿½ï¿½ (F10)";"2022";9;8;9;5;7;7;6;10;8;10;...;...
-"Nervu sistï¿½mas slimï¿½basun ausu un aizauss paugura slimï¿½bas (G00-G99; H60-H93)";"2015";33;22;24;24;39;31;28;34;41;29;39;31
-"Nervu sistï¿½mas slimï¿½basun ausu un aizauss paugura slimï¿½bas (G00-G99; H60-H93)";"2016";34;26;43;36;30;39;33;34;36;29;39;29
-"Nervu sistï¿½mas slimï¿½basun ausu un aizauss paugura slimï¿½bas (G00-G99; H60-H93)";"2017";46;50;39;41;37;28;37;36;51;41;32;37
-"Nervu sistï¿½mas slimï¿½basun ausu un aizauss paugura slimï¿½bas (G00-G99; H60-H93)";"2018";32;48;53;40;39;42;38;42;35;45;42;52
-"Nervu sistï¿½mas slimï¿½basun ausu un aizauss paugura slimï¿½bas (G00-G99; H60-H93)";"2019";64;45;32;40;27;37;50;32;32;32;34;45
-"Nervu sistï¿½mas slimï¿½basun ausu un aizauss paugura slimï¿½bas (G00-G99; H60-H93)";"2020";40;41;26;32;38;39;58;26;32;33;29;43
-"Nervu sistï¿½mas slimï¿½basun ausu un aizauss paugura slimï¿½bas (G00-G99; H60-H93)";"2021";47;38;37;33;33;48;58;50;34;54;46;38
-"Nervu sistï¿½mas slimï¿½basun ausu un aizauss paugura slimï¿½bas (G00-G99; H60-H93)";"2022";52;49;49;48;40;48;31;40;38;56;...;...
-"Asinsrites sistï¿½mas slimï¿½bas (I00-I99)";"2015";1618;1412;1480;1367;1341;1253;1271;1173;1132;1381;1292;1415
-"Asinsrites sistï¿½mas slimï¿½bas (I00-I99)";"2016";1637;1318;1477;1389;1339;1279;1149;1175;1138;1308;1291;1351
-"Asinsrites sistï¿½mas slimï¿½bas (I00-I99)";"2017";1573;1482;1468;1353;1315;1160;1176;1123;1190;1291;1308;1392
-"Asinsrites sistï¿½mas slimï¿½bas (I00-I99)";"2018";1454;1374;1762;1438;1297;1098;1226;1097;1116;1278;1203;1415
-"Asinsrites sistï¿½mas slimï¿½bas (I00-I99)";"2019";1579;1287;1337;1251;1232;1103;1170;1036;1169;1248;1153;1437
-"Asinsrites sistï¿½mas slimï¿½bas (I00-I99)";"2020";1434;1213;1311;1284;1259;1198;1176;1167;1183;1229;1358;1598
-"Asinsrites sistï¿½mas slimï¿½bas (I00-I99)";"2021";1774;1408;1397;1241;1371;1372;1288;1151;1300;1611;1476;1523
-"Asinsrites sistï¿½mas slimï¿½bas (I00-I99)";"2022";1459;1376;1535;1307;1265;1231;1112;1144;1182;1244;...;...
-"..Akï¿½ts miokarda infarkts (I21-I22)";"2015";116;101;94;90;102;91;103;85;85;92;89;122
-"..Akï¿½ts miokarda infarkts (I21-I22)";"2016";128;99;96;102;95;82;77;79;65;84;90;91
-"..Akï¿½ts miokarda infarkts (I21-I22)";"2017";97;84;86;85;89;79;77;76;69;93;101;75
-"..Akï¿½ts miokarda infarkts (I21-I22)";"2018";89;92;82;84;73;70;62;66;54;80;64;70
-"..Akï¿½ts miokarda infarkts (I21-I22)";"2019";87;87;81;84;65;54;81;55;64;70;44;78
-"..Akï¿½ts miokarda infarkts (I21-I22)";"2020";81;76;73;68;76;64;50;77;71;66;68;76
-"..Akï¿½ts miokarda infarkts (I21-I22)";"2021";90;81;79;73;76;46;57;79;68;57;72;88
-"..Akï¿½ts miokarda infarkts (I21-I22)";"2022";92;88;79;54;75;75;70;61;72;89;...;...
-"..Hemorï¿½ï¿½isks insults (I60-I62)";"2015";61;50;51;46;39;31;46;41;27;45;40;40
-"..Hemorï¿½ï¿½isks insults (I60-I62)";"2016";35;42;37;47;38;37;36;30;43;39;38;36
-"..Hemorï¿½ï¿½isks insults (I60-I62)";"2017";45;34;45;31;30;38;35;40;32;35;33;43
-"..Hemorï¿½ï¿½isks insults (I60-I62)";"2018";42;35;50;30;47;35;40;34;30;41;31;42
-"..Hemorï¿½ï¿½isks insults (I60-I62)";"2019";40;33;29;32;30;35;23;25;30;30;34;42
-"..Hemorï¿½ï¿½isks insults (I60-I62)";"2020";32;38;32;35;36;35;22;35;34;35;34;34
-"..Hemorï¿½ï¿½isks insults (I60-I62)";"2021";36;41;44;28;38;36;18;36;36;37;32;38
-"..Hemorï¿½ï¿½isks insults (I60-I62)";"2022";49;30;29;34;35;43;36;24;33;20;...;...
-".. Iï¿½ï¿½misks insults (I63-I64)";"2015";188;168;177;172;174;163;142;135;125;165;168;179
-".. Iï¿½ï¿½misks insults (I63-I64)";"2016";180;156;171;163;145;154;106;131;126;142;120;148
-".. Iï¿½ï¿½misks insults (I63-I64)";"2017";163;163;146;125;166;126;137;120;120;120;122;166
-".. Iï¿½ï¿½misks insults (I63-I64)";"2018";151;141;183;151;141;99;98;113;101;143;132;135
-".. Iï¿½ï¿½misks insults (I63-I64)";"2019";152;138;148;112;99;107;111;80;114;128;120;114
-".. Iï¿½ï¿½misks insults (I63-I64)";"2020";120;133;121;113;100;98;112;96;101;113;136;128
-".. Iï¿½ï¿½misks insults (I63-I64)";"2021";154;108;123;98;118;112;108;83;116;138;123;118
-".. Iï¿½ï¿½misks insults (I63-I64)";"2022";116;104;103;104;101;93;103;89;91;122;...;...
-"Elpoï¿½anas sistï¿½mas slimï¿½bas (J00-J99)";"2015";74;68;85;63;69;44;55;53;33;48;73;47
-"Elpoï¿½anas sistï¿½mas slimï¿½bas (J00-J99)";"2016";83;81;101;72;62;63;42;68;57;73;57;63
-"Elpoï¿½anas sistï¿½mas slimï¿½bas (J00-J99)";"2017";94;120;104;71;61;43;48;46;53;67;69;66
-"Elpoï¿½anas sistï¿½mas slimï¿½bas (J00-J99)";"2018";74;102;161;125;75;50;47;60;53;65;42;67
-"Elpoï¿½anas sistï¿½mas slimï¿½bas (J00-J99)";"2019";118;112;90;60;57;45;39;53;44;58;42;60
-"Elpoï¿½anas sistï¿½mas slimï¿½bas (J00-J99)";"2020";79;62;69;68;58;33;48;60;48;60;60;70
-"Elpoï¿½anas sistï¿½mas slimï¿½bas (J00-J99)";"2021";65;57;50;52;65;73;63;64;63;95;64;68
-"Elpoï¿½anas sistï¿½mas slimï¿½bas (J00-J99)";"2022";83;59;83;64;62;66;60;70;61;68;...;...
+"Nâves cçlonis";"Gads";"Skaits Janvâris";"Skaits Februâris";"Skaits Marts";"Skaits Aprîlis";"Skaits Maijs";"Skaits Jûnijs";"Skaits Jûlijs";"Skaits Augusts";"Skaits Septembris";"Skaits Oktobris";"Skaits Novembris";"Skaits Decembris"
+"KOPÂ";"2015";2719;2370;2567;2414;2316;2187;2273;2210;2073;2354;2247;2463
+"KOPÂ";"2016";2836;2311;2586;2365;2346;2257;2099;2219;2106;2358;2325;2407
+"KOPÂ";"2017";2683;2596;2637;2376;2325;2161;2182;2094;2222;2361;2322;2502
+"KOPÂ";"2018";2561;2415;3050;2522;2311;2021;2368;2133;2123;2273;2220;2536
+"KOPÂ";"2019";2834;2383;2440;2284;2215;2059;2192;2001;2138;2275;2171;2501
+"KOPÂ";"2020";2506;2205;2352;2298;2307;2231;2186;2219;2144;2369;2526;3252
+"KOPÂ";"2021";3546;2790;2667;2530;2661;2636;2513;2298;2510;3548;3554;2980
+"KOPÂ";"2022";2901;2725;2963;2452;2354;2288;2205;2278;2280;2503;2369;2813
+"Infekcijas un parazitâras slimîbas (A00-B99)";"2015";29;36;19;25;23;32;28;22;30;23;23;19
+"Infekcijas un parazitâras slimîbas (A00-B99)";"2016";36;23;42;21;29;14;20;28;24;26;23;23
+"Infekcijas un parazitâras slimîbas (A00-B99)";"2017";29;29;26;26;24;24;29;28;28;23;19;25
+"Infekcijas un parazitâras slimîbas (A00-B99)";"2018";31;30;42;29;19;23;23;24;25;20;21;29
+"Infekcijas un parazitâras slimîbas (A00-B99)";"2019";26;35;33;34;19;30;24;40;33;34;23;35
+"Infekcijas un parazitâras slimîbas (A00-B99)";"2020";30;20;28;22;24;23;24;27;14;34;20;20
+"Infekcijas un parazitâras slimîbas (A00-B99)";"2021";19;23;22;30;21;32;31;19;25;28;23;29
+"Infekcijas un parazitâras slimîbas (A00-B99)";"2022";36;29;23;29;29;24;28;34;29;34;39;30
+"Audzçji (C00-D48)";"2015";538;476;552;501;466;477;471;521;492;484;457;556
+"Audzçji (C00-D48)";"2016";540;481;485;508;492;474;499;528;483;506;509;527
+"Audzçji (C00-D48)";"2017";526;495;555;481;526;505;515;510;502;518;489;516
+"Audzçji (C00-D48)";"2018";542;461;562;477;479;450;562;478;500;499;526;539
+"Audzçji (C00-D48)";"2019";536;489;493;524;519;471;533;497;481;524;520;508
+"Audzçji (C00-D48)";"2020";507;486;513;498;516;505;495;526;504;567;506;501
+"Audzçji (C00-D48)";"2021";497;417;469;482;478;523;536;534;495;519;460;482
+"Audzçji (C00-D48)";"2022";507;463;506;456;485;449;513;506;478;511;462;474
+"..Ïaundabîgi audzçji (C00-C97)";"2015";524;468;546;492;454;470;465;506;483;477;448;543
+"..Ïaundabîgi audzçji (C00-C97)";"2016";527;472;472;499;481;465;489;514;472;492;495;518
+"..Ïaundabîgi audzçji (C00-C97)";"2017";517;484;539;469;514;498;506;500;491;505;472;493
+"..Ïaundabîgi audzçji (C00-C97)";"2018";531;453;550;460;470;442;550;464;481;484;518;530
+"..Ïaundabîgi audzçji (C00-C97)";"2019";520;473;476;511;501;456;522;481;468;516;501;500
+"..Ïaundabîgi audzçji (C00-C97)";"2020";494;477;503;491;501;497;490;517;490;554;496;487
+"..Ïaundabîgi audzçji (C00-C97)";"2021";488;405;460;468;468;511;525;525;477;507;450;468
+"..Ïaundabîgi audzçji (C00-C97)";"2022";497;453;486;444;474;431;497;497;470;493;447;465
+"Asins un asinsrades orgânu slimîbas un noteikti imûnsistçmas traucçjumi (D50-D89)";"2015";3;7;1;5;5;2;0;0;1;0;0;4
+"Asins un asinsrades orgânu slimîbas un noteikti imûnsistçmas traucçjumi (D50-D89)";"2016";2;3;3;2;4;0;3;0;2;4;7;3
+"Asins un asinsrades orgânu slimîbas un noteikti imûnsistçmas traucçjumi (D50-D89)";"2017";3;4;2;2;3;2;2;5;1;1;8;1
+"Asins un asinsrades orgânu slimîbas un noteikti imûnsistçmas traucçjumi (D50-D89)";"2018";6;3;7;7;5;4;0;3;4;4;9;4
+"Asins un asinsrades orgânu slimîbas un noteikti imûnsistçmas traucçjumi (D50-D89)";"2019";2;1;3;3;3;1;1;1;2;1;2;6
+"Asins un asinsrades orgânu slimîbas un noteikti imûnsistçmas traucçjumi (D50-D89)";"2020";3;2;2;1;4;4;4;3;5;5;5;2
+"Asins un asinsrades orgânu slimîbas un noteikti imûnsistçmas traucçjumi (D50-D89)";"2021";3;0;2;4;7;3;2;3;0;7;2;7
+"Asins un asinsrades orgânu slimîbas un noteikti imûnsistçmas traucçjumi (D50-D89)";"2022";6;4;3;4;1;5;0;0;6;5;4;1
+"Endokrînâs, uztures un vielmaiòas slimîbas (E00-E90)";"2015";48;31;50;54;45;45;42;31;36;46;39;39
+"Endokrînâs, uztures un vielmaiòas slimîbas (E00-E90)";"2016";59;40;59;33;56;43;41;58;45;57;55;48
+"Endokrînâs, uztures un vielmaiòas slimîbas (E00-E90)";"2017";54;52;64;42;54;58;39;44;48;48;51;53
+"Endokrînâs, uztures un vielmaiòas slimîbas (E00-E90)";"2018";53;58;63;48;56;55;62;40;37;44;45;58
+"Endokrînâs, uztures un vielmaiòas slimîbas (E00-E90)";"2019";84;51;69;45;58;57;52;54;55;65;58;51
+"Endokrînâs, uztures un vielmaiòas slimîbas (E00-E90)";"2020";59;65;47;48;60;60;63;67;64;75;81;83
+"Endokrînâs, uztures un vielmaiòas slimîbas (E00-E90)";"2021";84;69;61;67;65;61;72;60;57;92;77;56
+"Endokrînâs, uztures un vielmaiòas slimîbas (E00-E90)";"2022";59;54;53;57;59;48;49;62;51;58;56;62
+"Psihiski un uzvedîbas traucçjumi (F00-F99)";"2015";26;26;36;45;33;37;38;49;26;28;30;36
+"Psihiski un uzvedîbas traucçjumi (F00-F99)";"2016";39;45;42;29;39;32;38;38;31;38;35;43
+"Psihiski un uzvedîbas traucçjumi (F00-F99)";"2017";31;53;50;47;51;38;39;34;46;46;36;56
+"Psihiski un uzvedîbas traucçjumi (F00-F99)";"2018";54;51;65;49;51;28;55;61;51;45;49;62
+"Psihiski un uzvedîbas traucçjumi (F00-F99)";"2019";73;58;56;43;42;45;44;32;45;48;41;51
+"Psihiski un uzvedîbas traucçjumi (F00-F99)";"2020";60;48;70;55;58;59;51;60;40;50;57;77
+"Psihiski un uzvedîbas traucçjumi (F00-F99)";"2021";86;75;57;58;68;74;72;59;59;55;68;62
+"Psihiski un uzvedîbas traucçjumi (F00-F99)";"2022";58;46;46;42;37;53;40;44;48;52;57;58
+"..Psihiski un uzvedîbas traucçjumi alkohola lietoğanas dçï (F10)";"2015";15;6;19;24;11;16;21;20;12;14;11;12
+"..Psihiski un uzvedîbas traucçjumi alkohola lietoğanas dçï (F10)";"2016";7;7;8;10;11;13;8;10;9;8;12;10
+"..Psihiski un uzvedîbas traucçjumi alkohola lietoğanas dçï (F10)";"2017";7;10;11;8;8;8;8;13;14;11;9;20
+"..Psihiski un uzvedîbas traucçjumi alkohola lietoğanas dçï (F10)";"2018";14;9;17;10;9;10;7;14;9;7;12;13
+"..Psihiski un uzvedîbas traucçjumi alkohola lietoğanas dçï (F10)";"2019";15;5;8;11;9;8;4;5;5;5;5;8
+"..Psihiski un uzvedîbas traucçjumi alkohola lietoğanas dçï (F10)";"2020";12;7;11;12;9;13;9;18;3;8;6;16
+"..Psihiski un uzvedîbas traucçjumi alkohola lietoğanas dçï (F10)";"2021";20;17;18;19;20;27;25;17;19;15;18;19
+"..Psihiski un uzvedîbas traucçjumi alkohola lietoğanas dçï (F10)";"2022";9;8;9;5;7;7;6;10;8;11;11;9
+"Nervu sistçmas slimîbasun ausu un aizauss paugura slimîbas (G00-G99; H60-H93)";"2015";33;22;24;24;39;31;28;34;41;29;39;31
+"Nervu sistçmas slimîbasun ausu un aizauss paugura slimîbas (G00-G99; H60-H93)";"2016";34;26;43;36;30;39;33;34;36;29;39;29
+"Nervu sistçmas slimîbasun ausu un aizauss paugura slimîbas (G00-G99; H60-H93)";"2017";46;50;39;41;37;28;37;36;51;41;32;37
+"Nervu sistçmas slimîbasun ausu un aizauss paugura slimîbas (G00-G99; H60-H93)";"2018";32;48;53;40;39;42;38;42;35;45;42;52
+"Nervu sistçmas slimîbasun ausu un aizauss paugura slimîbas (G00-G99; H60-H93)";"2019";64;45;32;40;27;37;50;32;32;32;34;45
+"Nervu sistçmas slimîbasun ausu un aizauss paugura slimîbas (G00-G99; H60-H93)";"2020";40;41;26;32;38;39;58;26;32;33;29;43
+"Nervu sistçmas slimîbasun ausu un aizauss paugura slimîbas (G00-G99; H60-H93)";"2021";47;38;37;33;33;48;58;50;34;54;46;38
+"Nervu sistçmas slimîbasun ausu un aizauss paugura slimîbas (G00-G99; H60-H93)";"2022";52;49;49;48;40;48;31;40;38;57;41;59
+"Asinsrites sistçmas slimîbas (I00-I99)";"2015";1618;1412;1480;1367;1341;1253;1271;1173;1132;1381;1292;1415
+"Asinsrites sistçmas slimîbas (I00-I99)";"2016";1637;1318;1477;1389;1339;1279;1149;1175;1138;1308;1291;1351
+"Asinsrites sistçmas slimîbas (I00-I99)";"2017";1573;1482;1468;1353;1315;1160;1176;1123;1190;1291;1308;1392
+"Asinsrites sistçmas slimîbas (I00-I99)";"2018";1454;1374;1762;1438;1297;1098;1226;1097;1116;1278;1203;1415
+"Asinsrites sistçmas slimîbas (I00-I99)";"2019";1579;1287;1337;1251;1232;1103;1170;1036;1169;1248;1153;1437
+"Asinsrites sistçmas slimîbas (I00-I99)";"2020";1434;1213;1311;1284;1259;1198;1176;1167;1183;1229;1358;1598
+"Asinsrites sistçmas slimîbas (I00-I99)";"2021";1774;1408;1397;1241;1371;1372;1288;1151;1300;1611;1476;1523
+"Asinsrites sistçmas slimîbas (I00-I99)";"2022";1459;1376;1534;1307;1265;1231;1112;1144;1181;1298;1242;1563
+"..Akûts miokarda infarkts (I21-I22)";"2015";116;101;94;90;102;91;103;85;85;92;89;122
+"..Akûts miokarda infarkts (I21-I22)";"2016";128;99;96;102;95;82;77;79;65;84;90;91
+"..Akûts miokarda infarkts (I21-I22)";"2017";97;84;86;85;89;79;77;76;69;93;101;75
+"..Akûts miokarda infarkts (I21-I22)";"2018";89;92;82;84;73;70;62;66;54;80;64;70
+"..Akûts miokarda infarkts (I21-I22)";"2019";87;87;81;84;65;54;81;55;64;70;44;78
+"..Akûts miokarda infarkts (I21-I22)";"2020";81;76;73;68;76;64;50;77;71;66;68;76
+"..Akûts miokarda infarkts (I21-I22)";"2021";90;81;79;73;76;46;57;79;68;57;72;88
+"..Akûts miokarda infarkts (I21-I22)";"2022";92;88;79;54;75;75;70;61;72;94;82;77
+"..Hemorâìisks insults (I60-I62)";"2015";61;50;51;46;39;31;46;41;27;45;40;40
+"..Hemorâìisks insults (I60-I62)";"2016";35;42;37;47;38;37;36;30;43;39;38;36
+"..Hemorâìisks insults (I60-I62)";"2017";45;34;45;31;30;38;35;40;32;35;33;43
+"..Hemorâìisks insults (I60-I62)";"2018";42;35;50;30;47;35;40;34;30;41;31;42
+"..Hemorâìisks insults (I60-I62)";"2019";40;33;29;32;30;35;23;25;30;30;34;42
+"..Hemorâìisks insults (I60-I62)";"2020";32;38;32;35;36;35;22;35;34;35;34;34
+"..Hemorâìisks insults (I60-I62)";"2021";36;41;44;28;38;36;18;36;36;37;32;38
+"..Hemorâìisks insults (I60-I62)";"2022";49;30;29;34;35;43;36;24;33;25;35;31
+".. Iğçmisks insults (I63-I64)";"2015";188;168;177;172;174;163;142;135;125;165;168;179
+".. Iğçmisks insults (I63-I64)";"2016";180;156;171;163;145;154;106;131;126;142;120;148
+".. Iğçmisks insults (I63-I64)";"2017";163;163;146;125;166;126;137;120;120;120;122;166
+".. Iğçmisks insults (I63-I64)";"2018";151;141;183;151;141;99;98;113;101;143;132;135
+".. Iğçmisks insults (I63-I64)";"2019";152;138;148;112;99;107;111;80;114;128;120;114
+".. Iğçmisks insults (I63-I64)";"2020";120;133;121;113;100;98;112;96;101;113;136;128
+".. Iğçmisks insults (I63-I64)";"2021";154;108;123;98;118;112;108;83;116;138;123;118
+".. Iğçmisks insults (I63-I64)";"2022";116;104;103;104;101;93;103;89;91;130;117;124
+"Elpoğanas sistçmas slimîbas (J00-J99)";"2015";74;68;85;63;69;44;55;53;33;48;73;47
+"Elpoğanas sistçmas slimîbas (J00-J99)";"2016";83;81;101;72;62;63;42;68;57;73;57;63
+"Elpoğanas sistçmas slimîbas (J00-J99)";"2017";94;120;104;71;61;43;48;46;53;67;69;66
+"Elpoğanas sistçmas slimîbas (J00-J99)";"2018";74;102;161;125;75;50;47;60;53;65;42;67
+"Elpoğanas sistçmas slimîbas (J00-J99)";"2019";118;112;90;60;57;45;39;53;44;58;42;60
+"Elpoğanas sistçmas slimîbas (J00-J99)";"2020";79;62;69;68;58;33;48;60;48;60;60;70
+"Elpoğanas sistçmas slimîbas (J00-J99)";"2021";65;57;50;52;65;73;63;64;63;95;64;68
+"Elpoğanas sistçmas slimîbas (J00-J99)";"2022";83;59;83;64;62;66;60;70;61;71;77;131
 "..Gripa un pneimonija (J09-J18)";"2015";40;35;49;35;25;19;23;29;21;18;36;29
 "..Gripa un pneimonija (J09-J18)";"2016";55;45;55;40;33;23;19;34;20;31;31;27
 "..Gripa un pneimonija (J09-J18)";"2017";58;70;65;39;33;20;21;25;23;30;35;29
@@ -120,151 +120,151 @@
 "..Gripa un pneimonija (J09-J18)";"2019";68;83;56;32;24;21;23;24;20;30;26;34
 "..Gripa un pneimonija (J09-J18)";"2020";47;33;34;33;34;13;20;31;23;32;34;44
 "..Gripa un pneimonija (J09-J18)";"2021";39;34;27;27;30;35;36;31;30;54;39;44
-"..Gripa un pneimonija (J09-J18)";"2022";48;31;50;38;39;35;30;41;35;37;...;...
-"Gremoï¿½anas sistï¿½mas slimï¿½bas (K00-K93)";"2015";95;69;92;97;81;84;97;87;90;84;68;71
-"Gremoï¿½anas sistï¿½mas slimï¿½bas (K00-K93)";"2016";121;85;101;70;86;81;74;78;89;88;78;86
-"Gremoï¿½anas sistï¿½mas slimï¿½bas (K00-K93)";"2017";91;70;93;92;62;79;77;65;91;97;96;106
-"Gremoï¿½anas sistï¿½mas slimï¿½bas (K00-K93)";"2018";89;84;99;99;86;86;97;84;95;78;96;82
-"Gremoï¿½anas sistï¿½mas slimï¿½bas (K00-K93)";"2019";94;87;95;86;83;73;65;71;83;82;89;95
-"Gremoï¿½anas sistï¿½mas slimï¿½bas (K00-K93)";"2020";67;81;78;90;85;88;74;82;61;96;91;92
-"Gremoï¿½anas sistï¿½mas slimï¿½bas (K00-K93)";"2021";94;98;99;99;102;89;112;108;103;93;130;98
-"Gremoï¿½anas sistï¿½mas slimï¿½bas (K00-K93)";"2022";100;82;91;88;98;100;93;95;114;112;...;...
-"ï¿½das un zemï¿½das audu slimï¿½bas (L00-L99)";"2015";3;6;8;4;5;8;5;7;1;2;4;4
-"ï¿½das un zemï¿½das audu slimï¿½bas (L00-L99)";"2016";13;4;7;4;2;4;4;4;9;8;4;4
-"ï¿½das un zemï¿½das audu slimï¿½bas (L00-L99)";"2017";6;7;3;4;2;7;4;3;7;7;6;2
-"ï¿½das un zemï¿½das audu slimï¿½bas (L00-L99)";"2018";7;9;10;8;2;4;11;9;3;8;6;8
-"ï¿½das un zemï¿½das audu slimï¿½bas (L00-L99)";"2019";4;8;5;4;3;7;4;3;8;6;6;8
-"ï¿½das un zemï¿½das audu slimï¿½bas (L00-L99)";"2020";5;8;8;4;6;8;7;3;8;9;4;12
-"ï¿½das un zemï¿½das audu slimï¿½bas (L00-L99)";"2021";6;5;6;1;4;5;8;5;11;6;5;6
-"ï¿½das un zemï¿½das audu slimï¿½bas (L00-L99)";"2022";4;6;5;8;8;8;11;5;4;8;...;...
-"Skeleta, muskuï¿½u un saistaudu slimï¿½bas (M00-M99)";"2015";4;10;11;13;7;4;3;8;4;4;13;11
-"Skeleta, muskuï¿½u un saistaudu slimï¿½bas (M00-M99)";"2016";5;7;5;5;8;6;6;5;11;5;6;7
-"Skeleta, muskuï¿½u un saistaudu slimï¿½bas (M00-M99)";"2017";7;8;8;7;3;6;5;5;4;4;10;7
-"Skeleta, muskuï¿½u un saistaudu slimï¿½bas (M00-M99)";"2018";7;9;6;3;6;8;6;14;11;13;9;12
-"Skeleta, muskuï¿½u un saistaudu slimï¿½bas (M00-M99)";"2019";8;7;10;14;8;9;9;12;9;9;17;10
-"Skeleta, muskuï¿½u un saistaudu slimï¿½bas (M00-M99)";"2020";4;9;9;9;10;6;4;9;4;12;9;8
-"Skeleta, muskuï¿½u un saistaudu slimï¿½bas (M00-M99)";"2021";6;7;8;7;8;11;5;5;12;11;11;7
-"Skeleta, muskuï¿½u un saistaudu slimï¿½bas (M00-M99)";"2022";3;6;9;6;4;6;9;9;11;2;...;...
-"Uroï¿½enitï¿½lï¿½s sistï¿½mas slimï¿½bas (N00-N99)";"2015";36;32;38;37;29;35;26;35;36;31;30;24
-"Uroï¿½enitï¿½lï¿½s sistï¿½mas slimï¿½bas (N00-N99)";"2016";47;31;36;29;26;45;27;25;32;38;35;41
-"Uroï¿½enitï¿½lï¿½s sistï¿½mas slimï¿½bas (N00-N99)";"2017";33;43;44;41;32;30;35;31;35;30;29;35
-"Uroï¿½enitï¿½lï¿½s sistï¿½mas slimï¿½bas (N00-N99)";"2018";33;44;41;41;33;24;38;40;30;35;38;29
-"Uroï¿½enitï¿½lï¿½s sistï¿½mas slimï¿½bas (N00-N99)";"2019";61;35;52;29;36;33;29;34;32;31;40;42
-"Uroï¿½enitï¿½lï¿½s sistï¿½mas slimï¿½bas (N00-N99)";"2020";41;46;36;34;37;35;32;43;39;31;32;32
-"Uroï¿½enitï¿½lï¿½s sistï¿½mas slimï¿½bas (N00-N99)";"2021";36;31;39;36;24;31;41;46;50;40;35;42
-"Uroï¿½enitï¿½lï¿½s sistï¿½mas slimï¿½bas (N00-N99)";"2022";42;43;44;54;47;47;35;42;32;50;...;...
-"Grï¿½tniecï¿½ba, dzemdï¿½bas un pï¿½cdzemdï¿½bu periods (O00-O99)";"2015";3;0;1;0;0;1;1;2;1;0;0;3
-"Grï¿½tniecï¿½ba, dzemdï¿½bas un pï¿½cdzemdï¿½bu periods (O00-O99)";"2016";0;0;0;0;1;0;0;0;1;0;0;0
-"Grï¿½tniecï¿½ba, dzemdï¿½bas un pï¿½cdzemdï¿½bu periods (O00-O99)";"2017";0;0;0;0;0;0;0;0;0;1;0;0
-"Grï¿½tniecï¿½ba, dzemdï¿½bas un pï¿½cdzemdï¿½bu periods (O00-O99)";"2018";0;0;0;0;0;0;1;1;0;1;0;0
-"Grï¿½tniecï¿½ba, dzemdï¿½bas un pï¿½cdzemdï¿½bu periods (O00-O99)";"2019";0;0;0;1;1;1;1;1;0;0;0;0
-"Grï¿½tniecï¿½ba, dzemdï¿½bas un pï¿½cdzemdï¿½bu periods (O00-O99)";"2020";0;0;0;1;0;0;1;0;1;0;0;0
-"Grï¿½tniecï¿½ba, dzemdï¿½bas un pï¿½cdzemdï¿½bu periods (O00-O99)";"2021";0;0;0;0;2;0;0;0;1;1;1;1
-"Grï¿½tniecï¿½ba, dzemdï¿½bas un pï¿½cdzemdï¿½bu periods (O00-O99)";"2022";0;1;1;0;0;0;0;0;1;0;...;...
-"Noteikti perinatï¿½lï¿½ perioda stï¿½vokï¿½i (P00-P96)";"2015";7;1;4;4;2;2;5;3;3;3;6;3
-"Noteikti perinatï¿½lï¿½ perioda stï¿½vokï¿½i (P00-P96)";"2016";7;4;2;7;5;3;2;6;1;2;2;2
-"Noteikti perinatï¿½lï¿½ perioda stï¿½vokï¿½i (P00-P96)";"2017";14;3;1;6;3;6;4;7;2;3;2;2
-"Noteikti perinatï¿½lï¿½ perioda stï¿½vokï¿½i (P00-P96)";"2018";4;2;3;2;0;5;3;3;3;4;3;1
-"Noteikti perinatï¿½lï¿½ perioda stï¿½vokï¿½i (P00-P96)";"2019";3;3;3;0;3;3;9;2;2;6;1;3
-"Noteikti perinatï¿½lï¿½ perioda stï¿½vokï¿½i (P00-P96)";"2020";4;3;3;4;5;2;2;0;3;5;1;3
-"Noteikti perinatï¿½lï¿½ perioda stï¿½vokï¿½i (P00-P96)";"2021";2;2;5;1;3;1;3;3;2;2;0;5
-"Noteikti perinatï¿½lï¿½ perioda stï¿½vokï¿½i (P00-P96)";"2022";1;0;2;2;2;3;2;1;4;1;...;...
-"Iedzimtas kroplï¿½bas, deformï¿½cijas un hromosomu anomï¿½lijas (Q00-Q99)";"2015";5;2;3;2;4;5;4;6;5;10;3;3
-"Iedzimtas kroplï¿½bas, deformï¿½cijas un hromosomu anomï¿½lijas (Q00-Q99)";"2016";8;5;10;7;5;4;5;1;2;4;3;4
-"Iedzimtas kroplï¿½bas, deformï¿½cijas un hromosomu anomï¿½lijas (Q00-Q99)";"2017";4;5;7;3;2;3;2;1;3;1;5;4
-"Iedzimtas kroplï¿½bas, deformï¿½cijas un hromosomu anomï¿½lijas (Q00-Q99)";"2018";4;3;4;5;5;3;3;3;2;4;5;2
-"Iedzimtas kroplï¿½bas, deformï¿½cijas un hromosomu anomï¿½lijas (Q00-Q99)";"2019";5;1;1;3;3;3;3;4;4;4;2;2
-"Iedzimtas kroplï¿½bas, deformï¿½cijas un hromosomu anomï¿½lijas (Q00-Q99)";"2020";8;4;2;3;5;1;4;2;3;2;0;4
-"Iedzimtas kroplï¿½bas, deformï¿½cijas un hromosomu anomï¿½lijas (Q00-Q99)";"2021";3;2;0;2;2;2;5;2;4;3;4;8
-"Iedzimtas kroplï¿½bas, deformï¿½cijas un hromosomu anomï¿½lijas (Q00-Q99)";"2022";3;1;1;3;4;0;5;3;1;0;...;...
-"Citur neklasificï¿½ti simptomi, pazï¿½mes un anomï¿½la klï¿½niska un laboratorijas atrade (R00-R99)";"2015";26;36;24;33;27;24;28;22;21;22;24;26
-"Citur neklasificï¿½ti simptomi, pazï¿½mes un anomï¿½la klï¿½niska un laboratorijas atrade (R00-R99)";"2016";30;29;33;24;32;42;37;28;24;15;26;18
-"Citur neklasificï¿½ti simptomi, pazï¿½mes un anomï¿½la klï¿½niska un laboratorijas atrade (R00-R99)";"2017";25;29;38;29;29;33;36;27;26;31;21;32
-"Citur neklasificï¿½ti simptomi, pazï¿½mes un anomï¿½la klï¿½niska un laboratorijas atrade (R00-R99)";"2018";16;19;35;29;30;29;46;33;23;13;15;25
-"Citur neklasificï¿½ti simptomi, pazï¿½mes un anomï¿½la klï¿½niska un laboratorijas atrade (R00-R99)";"2019";34;37;41;36;25;26;45;22;21;24;28;21
-"Citur neklasificï¿½ti simptomi, pazï¿½mes un anomï¿½la klï¿½niska un laboratorijas atrade (R00-R99)";"2020";32;22;35;26;28;38;28;18;20;21;29;33
-"Citur neklasificï¿½ti simptomi, pazï¿½mes un anomï¿½la klï¿½niska un laboratorijas atrade (R00-R99)";"2021";31;18;28;25;29;35;49;31;39;50;31;24
-"Citur neklasificï¿½ti simptomi, pazï¿½mes un anomï¿½la klï¿½niska un laboratorijas atrade (R00-R99)";"2022";39;54;76;57;60;58;50;53;58;46;...;...
-"ï¿½rï¿½ji slimï¿½bu un nï¿½ves cï¿½loï¿½i (V01-Y98)";"2015";171;136;139;140;140;103;171;157;121;159;146;171
-"ï¿½rï¿½ji slimï¿½bu un nï¿½ves cï¿½loï¿½i (V01-Y98)";"2016";175;129;140;129;130;128;119;143;121;157;155;158
-"ï¿½rï¿½ji slimï¿½bu un nï¿½ves cï¿½loï¿½i (V01-Y98)";"2017";147;146;135;131;121;139;134;129;135;152;141;168
-"ï¿½rï¿½ji slimï¿½bu un nï¿½ves cï¿½loï¿½i (V01-Y98)";"2018";155;118;137;122;128;112;150;141;135;117;111;151
-"ï¿½rï¿½ji slimï¿½bu un nï¿½ves cï¿½loï¿½i (V01-Y98)";"2019";143;127;120;111;96;115;114;107;118;103;115;127
-"ï¿½rï¿½ji slimï¿½bu un nï¿½ves cï¿½loï¿½i (V01-Y98)";"2020";133;95;115;110;111;130;114;125;113;116;118;142
-"ï¿½rï¿½ji slimï¿½bu un nï¿½ves cï¿½loï¿½i (V01-Y98)";"2021";151;124;113;117;123;140;139;125;99;107;137;144
-"ï¿½rï¿½ji slimï¿½bu un nï¿½ves cï¿½loï¿½i (V01-Y98)";"2022";124;122;114;102;114;122;127;116;106;77;...;...
-"..Transporta nelaimes gadï¿½jumi (V01-V99)";"2015";26;7;8;14;9;15;19;31;20;22;21;26
-"..Transporta nelaimes gadï¿½jumi (V01-V99)";"2016";13;11;16;14;14;19;17;18;22;18;17;15
-"..Transporta nelaimes gadï¿½jumi (V01-V99)";"2017";15;13;10;10;11;14;11;12;20;11;12;15
-"..Transporta nelaimes gadï¿½jumi (V01-V99)";"2018";17;10;7;9;12;15;9;17;19;23;15;22
-"..Transporta nelaimes gadï¿½jumi (V01-V99)";"2019";9;14;13;11;17;14;11;14;12;14;18;12
-"..Transporta nelaimes gadï¿½jumi (V01-V99)";"2020";19;8;8;5;8;15;7;16;19;15;17;15
-"..Transporta nelaimes gadï¿½jumi (V01-V99)";"2021";10;9;2;13;11;17;17;22;20;16;20;9
-"..Transporta nelaimes gadï¿½jumi (V01-V99)";"2022";13;5;6;6;8;14;13;9;11;15;...;...
-"..Noslï¿½kï¿½ana un slï¿½kï¿½ana (W65-W74, Y21)";"2015";1;7;9;6;13;11;22;23;2;9;10;13
-"..Noslï¿½kï¿½ana un slï¿½kï¿½ana (W65-W74, Y21)";"2016";3;9;9;8;15;20;15;17;11;13;7;8
-"..Noslï¿½kï¿½ana un slï¿½kï¿½ana (W65-W74, Y21)";"2017";4;4;9;10;12;12;16;18;13;12;11;10
-"..Noslï¿½kï¿½ana un slï¿½kï¿½ana (W65-W74, Y21)";"2018";4;2;3;13;14;16;31;16;11;5;4;5
-"..Noslï¿½kï¿½ana un slï¿½kï¿½ana (W65-W74, Y21)";"2019";4;6;9;8;9;19;16;7;7;6;7;6
-"..Noslï¿½kï¿½ana un slï¿½kï¿½ana (W65-W74, Y21)";"2020";4;4;9;6;12;23;19;11;7;5;11;19
-"..Noslï¿½kï¿½ana un slï¿½kï¿½ana (W65-W74, Y21)";"2021";4;2;9;9;8;31;35;9;3;5;9;1
-"..Noslï¿½kï¿½ana un slï¿½kï¿½ana (W65-W74, Y21)";"2022";1;6;7;4;7;13;18;18;3;2;...;...
-"..Pakï¿½auï¿½ana dï¿½mu, uguns un liesmu iedarbei (X00-X09, Y26))";"2015";15;10;12;16;6;3;4;2;8;7;12;13
-"..Pakï¿½auï¿½ana dï¿½mu, uguns un liesmu iedarbei (X00-X09, Y26))";"2016";20;6;13;14;5;5;5;5;0;17;12;14
-"..Pakï¿½auï¿½ana dï¿½mu, uguns un liesmu iedarbei (X00-X09, Y26))";"2017";8;16;7;5;8;6;6;2;3;9;13;14
-"..Pakï¿½auï¿½ana dï¿½mu, uguns un liesmu iedarbei (X00-X09, Y26))";"2018";11;8;11;4;3;3;7;3;8;11;13;19
-"..Pakï¿½auï¿½ana dï¿½mu, uguns un liesmu iedarbei (X00-X09, Y26))";"2019";22;9;11;8;9;2;1;5;4;8;6;12
-"..Pakï¿½auï¿½ana dï¿½mu, uguns un liesmu iedarbei (X00-X09, Y26))";"2020";18;6;13;11;8;7;3;4;9;9;7;14
-"..Pakï¿½auï¿½ana dï¿½mu, uguns un liesmu iedarbei (X00-X09, Y26))";"2021";23;15;13;18;8;6;3;3;2;6;12;21
-"..Pakï¿½auï¿½ana dï¿½mu, uguns un liesmu iedarbei (X00-X09, Y26))";"2022";9;8;7;14;9;2;3;1;6;6;...;...
-"..Pï¿½rmï¿½rï¿½ga dabiska aukstuma ietekme (X31)";"2015";24;16;8;6;3;0;1;0;1;11;8;14
-"..Pï¿½rmï¿½rï¿½ga dabiska aukstuma ietekme (X31)";"2016";40;13;14;5;2;1;1;1;2;15;18;19
-"..Pï¿½rmï¿½rï¿½ga dabiska aukstuma ietekme (X31)";"2017";21;22;17;11;2;0;2;0;2;9;15;18
-"..Pï¿½rmï¿½rï¿½ga dabiska aukstuma ietekme (X31)";"2018";18;16;14;11;0;0;0;0;4;6;5;14
-"..Pï¿½rmï¿½rï¿½ga dabiska aukstuma ietekme (X31)";"2019";19;17;12;2;2;0;0;0;7;5;10;15
-"..Pï¿½rmï¿½rï¿½ga dabiska aukstuma ietekme (X31)";"2020";17;11;12;8;3;0;2;0;2;4;7;16
-"..Pï¿½rmï¿½rï¿½ga dabiska aukstuma ietekme (X31)";"2021";23;22;12;7;7;0;0;1;2;7;11;41
-"..Pï¿½rmï¿½rï¿½ga dabiska aukstuma ietekme (X31)";"2022";17;18;12;8;2;1;1;1;3;0;...;...
-"..Saindï¿½ï¿½anï¿½s un pakï¿½auï¿½ana kaitï¿½gu vielu iedarbei (X40-X49, Y10-Y19)";"2015";23;11;14;21;10;11;20;12;9;16;10;8
-"..Saindï¿½ï¿½anï¿½s un pakï¿½auï¿½ana kaitï¿½gu vielu iedarbei (X40-X49, Y10-Y19)";"2016";27;10;15;17;18;6;9;18;15;15;17;13
-"..Saindï¿½ï¿½anï¿½s un pakï¿½auï¿½ana kaitï¿½gu vielu iedarbei (X40-X49, Y10-Y19)";"2017";18;14;13;26;11;16;13;21;12;20;17;23
-"..Saindï¿½ï¿½anï¿½s un pakï¿½auï¿½ana kaitï¿½gu vielu iedarbei (X40-X49, Y10-Y19)";"2018";27;19;22;16;11;12;10;8;15;11;9;6
-"..Saindï¿½ï¿½anï¿½s un pakï¿½auï¿½ana kaitï¿½gu vielu iedarbei (X40-X49, Y10-Y19)";"2019";14;8;11;8;10;11;9;8;9;8;12;20
-"..Saindï¿½ï¿½anï¿½s un pakï¿½auï¿½ana kaitï¿½gu vielu iedarbei (X40-X49, Y10-Y19)";"2020";8;8;10;21;12;11;9;7;7;11;8;17
-"..Saindï¿½ï¿½anï¿½s un pakï¿½auï¿½ana kaitï¿½gu vielu iedarbei (X40-X49, Y10-Y19)";"2021";19;13;18;16;13;5;5;9;9;8;13;11
-"..Saindï¿½ï¿½anï¿½s un pakï¿½auï¿½ana kaitï¿½gu vielu iedarbei (X40-X49, Y10-Y19)";"2022";10;19;15;10;13;15;17;16;17;9;...;...
-"..Saindï¿½ï¿½anï¿½s ar alkoholu (X45; Y15)";"2015";13;8;12;16;6;10;11;10;9;10;5;5
-"..Saindï¿½ï¿½anï¿½s ar alkoholu (X45; Y15)";"2016";19;4;12;9;12;4;4;8;9;10;12;8
-"..Saindï¿½ï¿½anï¿½s ar alkoholu (X45; Y15)";"2017";14;6;10;19;11;8;7;8;6;11;7;10
-"..Saindï¿½ï¿½anï¿½s ar alkoholu (X45; Y15)";"2018";18;8;11;7;5;9;6;5;8;7;7;4
-"..Saindï¿½ï¿½anï¿½s ar alkoholu (X45; Y15)";"2019";12;7;6;3;6;6;7;3;6;6;10;13
-"..Saindï¿½ï¿½anï¿½s ar alkoholu (X45; Y15)";"2020";4;6;5;13;8;9;7;1;4;3;3;11
-"..Saindï¿½ï¿½anï¿½s ar alkoholu (X45; Y15)";"2021";12;8;11;9;7;3;3;3;8;5;10;6
-"..Saindï¿½ï¿½anï¿½s ar alkoholu (X45; Y15)";"2022";5;10;10;3;9;7;9;2;6;2;...;...
-"..Tï¿½ï¿½s paï¿½kaitï¿½jums (X60-X84)";"2015";41;32;30;33;39;20;46;31;31;31;30;22
-"..Tï¿½ï¿½s paï¿½kaitï¿½jums (X60-X84)";"2016";29;33;35;23;33;30;28;31;29;28;38;27
-"..Tï¿½ï¿½s paï¿½kaitï¿½jums (X60-X84)";"2017";28;29;25;27;36;31;32;29;27;29;31;29
-"..Tï¿½ï¿½s paï¿½kaitï¿½jums (X60-X84)";"2018";19;20;21;18;36;22;35;26;31;23;20;28
-"..Tï¿½ï¿½s paï¿½kaitï¿½jums (X60-X84)";"2019";23;27;24;26;19;24;32;27;25;25;18;18
-"..Tï¿½ï¿½s paï¿½kaitï¿½jums (X60-X84)";"2020";26;19;27;22;23;30;36;32;23;25;23;12
-"..Tï¿½ï¿½s paï¿½kaitï¿½jums (X60-X84)";"2021";17;17;18;16;21;24;24;35;22;21;25;13
-"..Tï¿½ï¿½s paï¿½kaitï¿½jums (X60-X84)";"2022";20;17;15;14;18;23;23;25;15;11;...;...
-"..Vardarbï¿½ba (X85-Y09)";"2015";9;5;8;7;7;4;8;7;5;13;11;15
-"..Vardarbï¿½ba (X85-Y09)";"2016";14;4;3;13;6;4;8;7;6;14;4;7
-"..Vardarbï¿½ba (X85-Y09)";"2017";11;4;4;2;5;9;8;6;8;5;5;7
-"..Vardarbï¿½ba (X85-Y09)";"2018";8;7;3;6;5;3;6;10;9;4;5;10
-"..Vardarbï¿½ba (X85-Y09)";"2019";7;5;6;6;5;5;9;5;5;1;2;6
-"..Vardarbï¿½ba (X85-Y09)";"2020";7;3;2;5;2;10;5;6;6;6;9;4
-"..Vardarbï¿½ba (X85-Y09)";"2021";3;5;5;7;11;7;3;5;4;5;6;6
-"..Vardarbï¿½ba (X85-Y09)";"2022";3;4;7;8;9;6;2;2;5;3;...;...
-"ï¿½paï¿½iem gadï¿½jumiem paredzï¿½tie kodi (U00-U85)";"2015";0;0;0;0;0;0;0;0;0;0;0;0
-"ï¿½paï¿½iem gadï¿½jumiem paredzï¿½tie kodi (U00-U85)";"2016";0;0;0;0;0;0;0;0;0;0;0;0
-"ï¿½paï¿½iem gadï¿½jumiem paredzï¿½tie kodi (U00-U85)";"2017";0;0;0;0;0;0;0;0;0;0;0;0
-"ï¿½paï¿½iem gadï¿½jumiem paredzï¿½tie kodi (U00-U85)";"2018";0;0;0;0;0;0;0;0;0;0;0;0
-"ï¿½paï¿½iem gadï¿½jumiem paredzï¿½tie kodi (U00-U85)";"2019";0;0;0;0;0;0;0;0;0;0;0;0
-"ï¿½paï¿½iem gadï¿½jumiem paredzï¿½tie kodi (U00-U85)";"2020";0;0;0;9;3;2;1;1;2;24;126;532
-"ï¿½paï¿½iem gadï¿½jumiem paredzï¿½tie kodi (U00-U85)";"2021";642;416;274;275;256;136;29;33;156;774;984;380
-"ï¿½paï¿½iem gadï¿½jumiem paredzï¿½tie kodi (U00-U85)";"2022";325;329;322;124;38;20;40;54;55;84;...;...
+"..Gripa un pneimonija (J09-J18)";"2022";48;31;50;38;39;35;30;41;35;39;36;82
+"Gremoğanas sistçmas slimîbas (K00-K93)";"2015";95;69;92;97;81;84;97;87;90;84;68;71
+"Gremoğanas sistçmas slimîbas (K00-K93)";"2016";121;85;101;70;86;81;74;78;89;88;78;86
+"Gremoğanas sistçmas slimîbas (K00-K93)";"2017";91;70;93;92;62;79;77;65;91;97;96;106
+"Gremoğanas sistçmas slimîbas (K00-K93)";"2018";89;84;99;99;86;86;97;84;95;78;96;82
+"Gremoğanas sistçmas slimîbas (K00-K93)";"2019";94;87;95;86;83;73;65;71;83;82;89;95
+"Gremoğanas sistçmas slimîbas (K00-K93)";"2020";67;81;78;90;85;88;74;82;61;96;91;92
+"Gremoğanas sistçmas slimîbas (K00-K93)";"2021";94;98;99;99;102;89;112;108;103;93;130;98
+"Gremoğanas sistçmas slimîbas (K00-K93)";"2022";100;82;91;88;98;100;93;95;114;118;114;96
+"Âdas un zemâdas audu slimîbas (L00-L99)";"2015";3;6;8;4;5;8;5;7;1;2;4;4
+"Âdas un zemâdas audu slimîbas (L00-L99)";"2016";13;4;7;4;2;4;4;4;9;8;4;4
+"Âdas un zemâdas audu slimîbas (L00-L99)";"2017";6;7;3;4;2;7;4;3;7;7;6;2
+"Âdas un zemâdas audu slimîbas (L00-L99)";"2018";7;9;10;8;2;4;11;9;3;8;6;8
+"Âdas un zemâdas audu slimîbas (L00-L99)";"2019";4;8;5;4;3;7;4;3;8;6;6;8
+"Âdas un zemâdas audu slimîbas (L00-L99)";"2020";5;8;8;4;6;8;7;3;8;9;4;12
+"Âdas un zemâdas audu slimîbas (L00-L99)";"2021";6;5;6;1;4;5;8;5;11;6;5;6
+"Âdas un zemâdas audu slimîbas (L00-L99)";"2022";4;6;5;8;8;8;11;5;4;9;8;6
+"Skeleta, muskuïu un saistaudu slimîbas (M00-M99)";"2015";4;10;11;13;7;4;3;8;4;4;13;11
+"Skeleta, muskuïu un saistaudu slimîbas (M00-M99)";"2016";5;7;5;5;8;6;6;5;11;5;6;7
+"Skeleta, muskuïu un saistaudu slimîbas (M00-M99)";"2017";7;8;8;7;3;6;5;5;4;4;10;7
+"Skeleta, muskuïu un saistaudu slimîbas (M00-M99)";"2018";7;9;6;3;6;8;6;14;11;13;9;12
+"Skeleta, muskuïu un saistaudu slimîbas (M00-M99)";"2019";8;7;10;14;8;9;9;12;9;9;17;10
+"Skeleta, muskuïu un saistaudu slimîbas (M00-M99)";"2020";4;9;9;9;10;6;4;9;4;12;9;8
+"Skeleta, muskuïu un saistaudu slimîbas (M00-M99)";"2021";6;7;8;7;8;11;5;5;12;11;11;7
+"Skeleta, muskuïu un saistaudu slimîbas (M00-M99)";"2022";3;6;9;6;4;6;9;9;11;2;5;11
+"Uroìenitâlâs sistçmas slimîbas (N00-N99)";"2015";36;32;38;37;29;35;26;35;36;31;30;24
+"Uroìenitâlâs sistçmas slimîbas (N00-N99)";"2016";47;31;36;29;26;45;27;25;32;38;35;41
+"Uroìenitâlâs sistçmas slimîbas (N00-N99)";"2017";33;43;44;41;32;30;35;31;35;30;29;35
+"Uroìenitâlâs sistçmas slimîbas (N00-N99)";"2018";33;44;41;41;33;24;38;40;30;35;38;29
+"Uroìenitâlâs sistçmas slimîbas (N00-N99)";"2019";61;35;52;29;36;33;29;34;32;31;40;42
+"Uroìenitâlâs sistçmas slimîbas (N00-N99)";"2020";41;46;36;34;37;35;32;43;39;31;32;32
+"Uroìenitâlâs sistçmas slimîbas (N00-N99)";"2021";36;31;39;36;24;31;41;46;50;40;35;42
+"Uroìenitâlâs sistçmas slimîbas (N00-N99)";"2022";42;43;44;54;47;47;35;42;32;53;40;48
+"Grûtniecîba, dzemdîbas un pçcdzemdîbu periods (O00-O99)";"2015";3;0;1;0;0;1;1;2;1;0;0;3
+"Grûtniecîba, dzemdîbas un pçcdzemdîbu periods (O00-O99)";"2016";0;0;0;0;1;0;0;0;1;0;0;0
+"Grûtniecîba, dzemdîbas un pçcdzemdîbu periods (O00-O99)";"2017";0;0;0;0;0;0;0;0;0;1;0;0
+"Grûtniecîba, dzemdîbas un pçcdzemdîbu periods (O00-O99)";"2018";0;0;0;0;0;0;1;1;0;1;0;0
+"Grûtniecîba, dzemdîbas un pçcdzemdîbu periods (O00-O99)";"2019";0;0;0;1;1;1;1;1;0;0;0;0
+"Grûtniecîba, dzemdîbas un pçcdzemdîbu periods (O00-O99)";"2020";0;0;0;1;0;0;1;0;1;0;0;0
+"Grûtniecîba, dzemdîbas un pçcdzemdîbu periods (O00-O99)";"2021";0;0;0;0;2;0;0;0;1;1;1;1
+"Grûtniecîba, dzemdîbas un pçcdzemdîbu periods (O00-O99)";"2022";0;1;1;0;0;0;0;0;1;0;1;0
+"Noteikti perinatâlâ perioda stâvokïi (P00-P96)";"2015";7;1;4;4;2;2;5;3;3;3;6;3
+"Noteikti perinatâlâ perioda stâvokïi (P00-P96)";"2016";7;4;2;7;5;3;2;6;1;2;2;2
+"Noteikti perinatâlâ perioda stâvokïi (P00-P96)";"2017";14;3;1;6;3;6;4;7;2;3;2;2
+"Noteikti perinatâlâ perioda stâvokïi (P00-P96)";"2018";4;2;3;2;0;5;3;3;3;4;3;1
+"Noteikti perinatâlâ perioda stâvokïi (P00-P96)";"2019";3;3;3;0;3;3;9;2;2;6;1;3
+"Noteikti perinatâlâ perioda stâvokïi (P00-P96)";"2020";4;3;3;4;5;2;2;0;3;5;1;3
+"Noteikti perinatâlâ perioda stâvokïi (P00-P96)";"2021";2;2;5;1;3;1;3;3;2;2;0;5
+"Noteikti perinatâlâ perioda stâvokïi (P00-P96)";"2022";1;0;2;2;2;3;2;1;4;1;0;2
+"Iedzimtas kroplîbas, deformâcijas un hromosomu anomâlijas (Q00-Q99)";"2015";5;2;3;2;4;5;4;6;5;10;3;3
+"Iedzimtas kroplîbas, deformâcijas un hromosomu anomâlijas (Q00-Q99)";"2016";8;5;10;7;5;4;5;1;2;4;3;4
+"Iedzimtas kroplîbas, deformâcijas un hromosomu anomâlijas (Q00-Q99)";"2017";4;5;7;3;2;3;2;1;3;1;5;4
+"Iedzimtas kroplîbas, deformâcijas un hromosomu anomâlijas (Q00-Q99)";"2018";4;3;4;5;5;3;3;3;2;4;5;2
+"Iedzimtas kroplîbas, deformâcijas un hromosomu anomâlijas (Q00-Q99)";"2019";5;1;1;3;3;3;3;4;4;4;2;2
+"Iedzimtas kroplîbas, deformâcijas un hromosomu anomâlijas (Q00-Q99)";"2020";8;4;2;3;5;1;4;2;3;2;0;4
+"Iedzimtas kroplîbas, deformâcijas un hromosomu anomâlijas (Q00-Q99)";"2021";3;2;0;2;2;2;5;2;4;3;4;8
+"Iedzimtas kroplîbas, deformâcijas un hromosomu anomâlijas (Q00-Q99)";"2022";3;1;1;3;4;0;5;3;1;1;3;3
+"Citur neklasificçti simptomi, pazîmes un anomâla klîniska un laboratorijas atrade (R00-R99)";"2015";26;36;24;33;27;24;28;22;21;22;24;26
+"Citur neklasificçti simptomi, pazîmes un anomâla klîniska un laboratorijas atrade (R00-R99)";"2016";30;29;33;24;32;42;37;28;24;15;26;18
+"Citur neklasificçti simptomi, pazîmes un anomâla klîniska un laboratorijas atrade (R00-R99)";"2017";25;29;38;29;29;33;36;27;26;31;21;32
+"Citur neklasificçti simptomi, pazîmes un anomâla klîniska un laboratorijas atrade (R00-R99)";"2018";16;19;35;29;30;29;46;33;23;13;15;25
+"Citur neklasificçti simptomi, pazîmes un anomâla klîniska un laboratorijas atrade (R00-R99)";"2019";34;37;41;36;25;26;45;22;21;24;28;21
+"Citur neklasificçti simptomi, pazîmes un anomâla klîniska un laboratorijas atrade (R00-R99)";"2020";32;22;35;26;28;38;28;18;20;21;29;33
+"Citur neklasificçti simptomi, pazîmes un anomâla klîniska un laboratorijas atrade (R00-R99)";"2021";31;18;28;25;29;35;49;31;39;50;31;24
+"Citur neklasificçti simptomi, pazîmes un anomâla klîniska un laboratorijas atrade (R00-R99)";"2022";39;55;76;57;61;58;50;53;58;50;54;53
+"Ârçji slimîbu un nâves cçloòi (V01-Y98)";"2015";171;136;139;140;140;103;171;157;121;159;146;171
+"Ârçji slimîbu un nâves cçloòi (V01-Y98)";"2016";175;129;140;129;130;128;119;143;121;157;155;158
+"Ârçji slimîbu un nâves cçloòi (V01-Y98)";"2017";147;146;135;131;121;139;134;129;135;152;141;168
+"Ârçji slimîbu un nâves cçloòi (V01-Y98)";"2018";155;118;137;122;128;112;150;141;135;117;111;151
+"Ârçji slimîbu un nâves cçloòi (V01-Y98)";"2019";143;127;120;111;96;115;114;107;118;103;115;127
+"Ârçji slimîbu un nâves cçloòi (V01-Y98)";"2020";133;95;115;110;111;130;114;125;113;116;118;142
+"Ârçji slimîbu un nâves cçloòi (V01-Y98)";"2021";151;124;113;117;123;140;139;125;99;107;137;144
+"Ârçji slimîbu un nâves cçloòi (V01-Y98)";"2022";124;122;115;103;114;122;127;116;107;97;115;148
+"..Transporta nelaimes gadîjumi (V01-V99)";"2015";26;7;8;14;9;15;19;31;20;22;21;26
+"..Transporta nelaimes gadîjumi (V01-V99)";"2016";13;11;16;14;14;19;17;18;22;18;17;15
+"..Transporta nelaimes gadîjumi (V01-V99)";"2017";15;13;10;10;11;14;11;12;20;11;12;15
+"..Transporta nelaimes gadîjumi (V01-V99)";"2018";17;10;7;9;12;15;9;17;19;23;15;22
+"..Transporta nelaimes gadîjumi (V01-V99)";"2019";9;14;13;11;17;14;11;14;12;14;18;12
+"..Transporta nelaimes gadîjumi (V01-V99)";"2020";19;8;8;5;8;15;7;16;19;15;17;15
+"..Transporta nelaimes gadîjumi (V01-V99)";"2021";10;9;2;13;11;17;17;22;20;16;20;9
+"..Transporta nelaimes gadîjumi (V01-V99)";"2022";13;5;6;6;8;14;13;9;11;17;23;9
+"..Noslîkğana un slîkğana (W65-W74, Y21)";"2015";1;7;9;6;13;11;22;23;2;9;10;13
+"..Noslîkğana un slîkğana (W65-W74, Y21)";"2016";3;9;9;8;15;20;15;17;11;13;7;8
+"..Noslîkğana un slîkğana (W65-W74, Y21)";"2017";4;4;9;10;12;12;16;18;13;12;11;10
+"..Noslîkğana un slîkğana (W65-W74, Y21)";"2018";4;2;3;13;14;16;31;16;11;5;4;5
+"..Noslîkğana un slîkğana (W65-W74, Y21)";"2019";4;6;9;8;9;19;16;7;7;6;7;6
+"..Noslîkğana un slîkğana (W65-W74, Y21)";"2020";4;4;9;6;12;23;19;11;7;5;11;19
+"..Noslîkğana un slîkğana (W65-W74, Y21)";"2021";4;2;9;9;8;31;35;9;3;5;9;1
+"..Noslîkğana un slîkğana (W65-W74, Y21)";"2022";1;6;7;4;7;13;18;18;3;4;4;4
+"..Pakïauğana dûmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2015";15;10;12;16;6;3;4;2;8;7;12;13
+"..Pakïauğana dûmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2016";20;6;13;14;5;5;5;5;0;17;12;14
+"..Pakïauğana dûmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2017";8;16;7;5;8;6;6;2;3;9;13;14
+"..Pakïauğana dûmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2018";11;8;11;4;3;3;7;3;8;11;13;19
+"..Pakïauğana dûmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2019";22;9;11;8;9;2;1;5;4;8;6;12
+"..Pakïauğana dûmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2020";18;6;13;11;8;7;3;4;9;9;7;14
+"..Pakïauğana dûmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2021";23;15;13;18;8;6;3;3;2;6;12;21
+"..Pakïauğana dûmu, uguns un liesmu iedarbei (X00-X09, Y26))";"2022";9;8;7;15;9;2;3;1;6;6;12;12
+"..Pârmçrîga dabiska aukstuma ietekme (X31)";"2015";24;16;8;6;3;0;1;0;1;11;8;14
+"..Pârmçrîga dabiska aukstuma ietekme (X31)";"2016";40;13;14;5;2;1;1;1;2;15;18;19
+"..Pârmçrîga dabiska aukstuma ietekme (X31)";"2017";21;22;17;11;2;0;2;0;2;9;15;18
+"..Pârmçrîga dabiska aukstuma ietekme (X31)";"2018";18;16;14;11;0;0;0;0;4;6;5;14
+"..Pârmçrîga dabiska aukstuma ietekme (X31)";"2019";19;17;12;2;2;0;0;0;7;5;10;15
+"..Pârmçrîga dabiska aukstuma ietekme (X31)";"2020";17;11;12;8;3;0;2;0;2;4;7;16
+"..Pârmçrîga dabiska aukstuma ietekme (X31)";"2021";23;22;12;7;7;0;0;1;2;7;11;41
+"..Pârmçrîga dabiska aukstuma ietekme (X31)";"2022";17;18;12;8;2;1;1;1;3;0;8;33
+"..Saindçğanâs un pakïauğana kaitîgu vielu iedarbei (X40-X49, Y10-Y19)";"2015";23;11;14;21;10;11;20;12;9;16;10;8
+"..Saindçğanâs un pakïauğana kaitîgu vielu iedarbei (X40-X49, Y10-Y19)";"2016";27;10;15;17;18;6;9;18;15;15;17;13
+"..Saindçğanâs un pakïauğana kaitîgu vielu iedarbei (X40-X49, Y10-Y19)";"2017";18;14;13;26;11;16;13;21;12;20;17;23
+"..Saindçğanâs un pakïauğana kaitîgu vielu iedarbei (X40-X49, Y10-Y19)";"2018";27;19;22;16;11;12;10;8;15;11;9;6
+"..Saindçğanâs un pakïauğana kaitîgu vielu iedarbei (X40-X49, Y10-Y19)";"2019";14;8;11;8;10;11;9;8;9;8;12;20
+"..Saindçğanâs un pakïauğana kaitîgu vielu iedarbei (X40-X49, Y10-Y19)";"2020";8;8;10;21;12;11;9;7;7;11;8;17
+"..Saindçğanâs un pakïauğana kaitîgu vielu iedarbei (X40-X49, Y10-Y19)";"2021";19;13;18;16;13;5;5;9;9;8;13;11
+"..Saindçğanâs un pakïauğana kaitîgu vielu iedarbei (X40-X49, Y10-Y19)";"2022";10;19;16;10;13;15;17;16;18;18;16;12
+"..Saindçğanâs ar alkoholu (X45; Y15)";"2015";13;8;12;16;6;10;11;10;9;10;5;5
+"..Saindçğanâs ar alkoholu (X45; Y15)";"2016";19;4;12;9;12;4;4;8;9;10;12;8
+"..Saindçğanâs ar alkoholu (X45; Y15)";"2017";14;6;10;19;11;8;7;8;6;11;7;10
+"..Saindçğanâs ar alkoholu (X45; Y15)";"2018";18;8;11;7;5;9;6;5;8;7;7;4
+"..Saindçğanâs ar alkoholu (X45; Y15)";"2019";12;7;6;3;6;6;7;3;6;6;10;13
+"..Saindçğanâs ar alkoholu (X45; Y15)";"2020";4;6;5;13;8;9;7;1;4;3;3;11
+"..Saindçğanâs ar alkoholu (X45; Y15)";"2021";12;8;11;9;7;3;3;3;8;5;10;6
+"..Saindçğanâs ar alkoholu (X45; Y15)";"2022";5;10;11;3;9;7;9;2;6;6;3;5
+"..Tîğs pağkaitçjums (X60-X84)";"2015";41;32;30;33;39;20;46;31;31;31;30;22
+"..Tîğs pağkaitçjums (X60-X84)";"2016";29;33;35;23;33;30;28;31;29;28;38;27
+"..Tîğs pağkaitçjums (X60-X84)";"2017";28;29;25;27;36;31;32;29;27;29;31;29
+"..Tîğs pağkaitçjums (X60-X84)";"2018";19;20;21;18;36;22;35;26;31;23;20;28
+"..Tîğs pağkaitçjums (X60-X84)";"2019";23;27;24;26;19;24;32;27;25;25;18;18
+"..Tîğs pağkaitçjums (X60-X84)";"2020";26;19;27;22;23;30;36;32;23;25;23;12
+"..Tîğs pağkaitçjums (X60-X84)";"2021";17;17;18;16;21;24;24;35;22;21;25;13
+"..Tîğs pağkaitçjums (X60-X84)";"2022";20;17;15;14;18;23;23;25;15;14;17;21
+"..Vardarbîba (X85-Y09)";"2015";9;5;8;7;7;4;8;7;5;13;11;15
+"..Vardarbîba (X85-Y09)";"2016";14;4;3;13;6;4;8;7;6;14;4;7
+"..Vardarbîba (X85-Y09)";"2017";11;4;4;2;5;9;8;6;8;5;5;7
+"..Vardarbîba (X85-Y09)";"2018";8;7;3;6;5;3;6;10;9;4;5;10
+"..Vardarbîba (X85-Y09)";"2019";7;5;6;6;5;5;9;5;5;1;2;6
+"..Vardarbîba (X85-Y09)";"2020";7;3;2;5;2;10;5;6;6;6;9;4
+"..Vardarbîba (X85-Y09)";"2021";3;5;5;7;11;7;3;5;4;5;6;6
+"..Vardarbîba (X85-Y09)";"2022";3;4;7;8;9;6;2;2;5;3;1;5
+"Îpağiem gadîjumiem paredzçtie kodi (U00-U85)";"2015";0;0;0;0;0;0;0;0;0;0;0;0
+"Îpağiem gadîjumiem paredzçtie kodi (U00-U85)";"2016";0;0;0;0;0;0;0;0;0;0;0;0
+"Îpağiem gadîjumiem paredzçtie kodi (U00-U85)";"2017";0;0;0;0;0;0;0;0;0;0;0;0
+"Îpağiem gadîjumiem paredzçtie kodi (U00-U85)";"2018";0;0;0;0;0;0;0;0;0;0;0;0
+"Îpağiem gadîjumiem paredzçtie kodi (U00-U85)";"2019";0;0;0;0;0;0;0;0;0;0;0;0
+"Îpağiem gadîjumiem paredzçtie kodi (U00-U85)";"2020";0;0;0;9;3;2;1;1;2;24;126;532
+"Îpağiem gadîjumiem paredzçtie kodi (U00-U85)";"2021";642;416;274;275;256;136;29;33;156;774;984;380
+"Îpağiem gadîjumiem paredzçtie kodi (U00-U85)";"2022";325;329;322;124;38;20;40;54;56;86;51;68
 "..Covid-19 (U07.1, U07.2)";"2015";x;x;x;x;x;x;x;x;x;x;x;x
 "..Covid-19 (U07.1, U07.2)";"2016";x;x;x;x;x;x;x;x;x;x;x;x
 "..Covid-19 (U07.1, U07.2)";"2017";x;x;x;x;x;x;x;x;x;x;x;x
@@ -272,4 +272,4 @@
 "..Covid-19 (U07.1, U07.2)";"2019";x;x;x;x;x;x;x;x;x;x;x;x
 "..Covid-19 (U07.1, U07.2)";"2020";0;0;0;9;3;2;1;1;2;24;126;532
 "..Covid-19 (U07.1, U07.2)";"2021";642;415;274;275;256;136;28;33;156;773;983;380
-"..Covid-19 (U07.1, U07.2)";"2022";324;329;322;124;38;20;40;54;55;84;...;...
+"..Covid-19 (U07.1, U07.2)";"2022";324;329;322;124;38;20;40;54;56;86;51;68
